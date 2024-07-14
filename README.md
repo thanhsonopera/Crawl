@@ -26,12 +26,10 @@ $ scrapy
 
 ```
 $ scrapy startproject foody (Đã tạo rồi không cần chạy lại)
-
 ```
 
 ```
 $ cd foody
-
 ```
 
 ```
