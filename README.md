@@ -1,21 +1,25 @@
 # Crawl
 
-# conda create --name e python=3.11
+## Install env
 
-# conda activate e
+### conda create --name e python=3.11
 
-# conda install --file requirements.txt
+### conda activate e
 
-# conda list
+### conda install --file requirements.txt
 
-# scrapy
+### conda list
 
-# scrapy startproject foody
+### create project scrapy
 
-# cd foody
+### scrapy
 
-# scrapy genspider pathspider https://www.foody.vn/
+### scrapy startproject foody
 
-# scrapy shell
+### cd foody
 
-# fetch('https://www.foody.vn/')
+### scrapy genspider pathspider https://www.foody.vn/
+
+### scrapy shell
+
+### fetch('https://www.foody.vn/')
