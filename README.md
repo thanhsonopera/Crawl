@@ -10,11 +10,11 @@
 
 ### conda list
 
-## Create project scrapy
+## Scrapy
 
 ### scrapy
 
-### scrapy startproject foody
+### scrapy startproject foody (Đã tạo rồi không cần chạy lại)
 
 ### cd foody
 
