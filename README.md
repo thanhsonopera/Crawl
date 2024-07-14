@@ -23,3 +23,9 @@
 ### scrapy shell
 
 ### fetch('https://www.foody.vn/')
+
+## Selenium
+
+### cd Selenium
+
+### python crw.py
