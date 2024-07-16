@@ -24,7 +24,6 @@ try:
         "//header/div[2]/div[1]/div[1]/div[2]/ul[1]/li[1]/ul[1]")
     # li / {ul / li} / a
     place = set()
-    place.add('')
     for range in placeHtml.find_elements_by_xpath(".//li"):
         a_tags = range.find_elements_by_xpath(".//a")
 
