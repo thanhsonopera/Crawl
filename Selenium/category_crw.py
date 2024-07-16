@@ -28,6 +28,7 @@ for place in tqdm(data_loaded['place']):
         folder = 'Place/' + place
         if not os.path.exists(folder):
             os.makedirs(folder)
+
         # Get Service
         driver.find_element_by_xpath(
             "//div[@id='head-navigation']").click()
