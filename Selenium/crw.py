@@ -40,11 +40,21 @@ driver = webdriver.Chrome(
     executable_path=r'C:\Users\thanh\Desktop\CRAWL\Selenium\chromedriver\chromedriver.exe')
 
 try:
-    # Navigate to a page
-    driver.get("https://www.foody.vn/ho-chi-minh/tra-sua-maycha-nguyen-hue")
+    # Login
+    # driver.get(
+    #     "https://id.foody.vn/account/login?returnUrl=https://www.foody.vn/ha-noi")
+    # time.sleep(3)
+    # driver.find_element_by_xpath(
+    #     "//input[@id='Email']").send_keys('tachien2003@gmail.com')
+    # driver.find_element_by_xpath(
+    #     "//input[@id='Password']").send_keys('S0ngm4im4i@')
+    # driver.find_element_by_xpath("//input[@id='bt_submit']").click()
+    # time.sleep(3)
+
+    driver.get("https://www.foody.vn/ha-noi")
 
     # Wait for the page to load
-    time.sleep(5)
+    time.sleep(3)
     # Get Place
     # driver.find_element_by_xpath(
     #     '//header/div[2]/div[1]/div[1]/div[1]').click()
@@ -77,9 +87,33 @@ try:
     # print(len(data_loaded['place']))
 
     # Get Service
-    # driver.find_element_by_xpath(
-    #     "//div[@id='head-navigation']").click()
-    # time.sleep(5)
+    driver.find_element_by_xpath(
+        "//div[@id='head-navigation']").click()
+    time.sleep(2)
+
+    ul_1 = driver.find_element_by_xpath(
+        '//header/div[2]/div[1]/div[2]/div[2]/ul[1]')
+    all_href_menu_1 = []
+    all_href_menu_2 = {}
+    for level1 in ul_1.find_elements_by_xpath(".//li[@data-id]"):
+        href = level1.find_element_by_xpath(".//a").get_attribute('href')
+        all_href_menu_1.append(href)
+
+        all_href_menu_2[href] = []
+        ul_2 = level1.find_element_by_xpath("//ul[@id='nav-place-1']")
+
+        for level2 in ul_2.find_elements_by_xpath(".//li"):
+
+            href_2 = level2.find_element_by_xpath(
+                ".//a").get_attribute('href')
+            all_href_menu_2[href].append(href_2)
+
+    print(all_href_menu_1)
+    print(all_href_menu_2)
+    filename = 'menu_category.json'
+
+    with open(filename, 'w') as f:
+        json.dump(all_href_menu_2, f)
 
     # element = driver.find_element_by_xpath(
     #     "//body/div[@id='FoodyApp']/div[4]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]")
@@ -95,21 +129,21 @@ try:
     #             print(s)
     #     cnt += 1
 
-    script_elements = driver.find_elements_by_tag_name('script')
-    js_scripts = [script for script in script_elements if script.get_attribute(
-        'type') == 'text/javascript']
+    # script_elements = driver.find_elements_by_tag_name('script')
+    # js_scripts = [script for script in script_elements if script.get_attribute(
+    #     'type') == 'text/javascript']
 
-    for script in js_scripts:
-        pattern_reviewData = r"var initDataReviews = (\{.*?\}\]\})"
-        pattern_initData = r"var initData = (\{.*?\});"
+    # for script in js_scripts:
+    #     pattern_reviewData = r"var initDataReviews = (\{.*?\}\]\})"
+    #     pattern_initData = r"var initData = (\{.*?\});"
 
-        str = script.get_attribute('innerHTML')
+    #     str = script.get_attribute('innerHTML')
 
-        match_reviewData = re.search(pattern_reviewData, str, re.DOTALL)
-        match_initData = re.search(pattern_initData, str, re.DOTALL)
+    #     match_reviewData = re.search(pattern_reviewData, str, re.DOTALL)
+    #     match_initData = re.search(pattern_initData, str, re.DOTALL)
 
-        save_json(match_reviewData, 2)
-        save_json(match_initData, 1)
+    #     save_json(match_reviewData, 2)
+    #     save_json(match_initData, 1)
 finally:
     # Clean up: close the browser window
     driver.quit()

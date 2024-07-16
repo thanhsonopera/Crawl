@@ -2,4 +2,4 @@ scrapy
 requests
 beautifulSoup4
 selenium
-python-chromedriver-binary
+tqdm
