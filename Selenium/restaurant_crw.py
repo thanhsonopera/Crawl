@@ -38,7 +38,7 @@ def getSource(link, type):
                 "//input[@id='Password']").send_keys('S0ngm4im4i@')
             driver.find_element_by_xpath("//input[@id='bt_submit']").click()
 
-            time.sleep(6)
+            time.sleep(8)
 
             # ul = driver.find_element_by_xpath(
             #     "//body/div[@id='FoodyApp']/div[4]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]")
@@ -63,14 +63,14 @@ def getSource(link, type):
                     driver.execute_script(
                         "arguments[0].scrollIntoView(true); window.scrollBy(0, -200);", btn)
                     print(btn.get_attribute('outerHTML'))
-                    time.sleep(2)
+                    time.sleep(5)
                     btn.click()
-                    time.sleep(6)
+                    time.sleep(10)
                 except:
                     print('No button')
                     break
 
-            time.sleep(1)
+            time.sleep(3)
             try:
                 ul = driver.find_element_by_xpath(
                     "//body/div[@id='FoodyApp']/div[4]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]")
@@ -176,26 +176,30 @@ if __name__ == '__main__':
 
     with open('place_tree.json', 'r') as f:
         data_loaded = json.load(f)
-
+    check = False
     for place_name, place_data in tqdm(data_loaded.items()):
         print(place_name)
-        place_object_second = []
-        for second_place in tqdm(place_data['second_place']):
-            print(second_place['src_place'])
-            object_list = getSource(
-                second_place['src_place'], second_place['type'])
-            place_object_second.append(
-                {second_place['src_place']: object_list})
 
-        print('---------------------------------')
-        folder = 'Place/' + place_name + '/second_place'
-        if not os.path.exists(folder):
-            os.makedirs(folder)
-        filename = folder + '/second_place.json'
-        with open(filename, 'w') as f:
-            json.dump(place_object_second, f)
+        if (check):
+            place_object_second = []
+            for second_place in tqdm(place_data['second_place']):
+                print(second_place['src_place'])
+                object_list = getSource(
+                    second_place['src_place'], second_place['type'])
+                place_object_second.append(
+                    {second_place['src_place']: object_list})
 
-        for third_place in tqdm(place_data['third_place']):
-            print(third_place['src_place'])
+            print('---------------------------------')
+            folder = 'Place/' + place_name + '/second_place'
+            if not os.path.exists(folder):
+                os.makedirs(folder)
+            filename = folder + '/second_place.json'
+            with open(filename, 'w') as f:
+                json.dump(place_object_second, f)
 
-        print('---------------------------------')
+            for third_place in tqdm(place_data['third_place']):
+                print(third_place['src_place'])
+
+            print('---------------------------------')
+        if (place_name == 'hau-giang'):
+            check = True

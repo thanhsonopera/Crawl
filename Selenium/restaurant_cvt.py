@@ -38,7 +38,7 @@ for se_path in paths:
         tree[big_place] = {
             'second_place': [{'src_place': 'https://www.foody.vn/' + big_place,
                              'type': 1}],
-            'third_place': [{}],
+            'third_place': [],
             'number_place_second': 1,
             'number_place_third': 0,
         }

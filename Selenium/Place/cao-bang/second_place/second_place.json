@@ -1,0 +1,66 @@
+[
+    {
+        "https://www.foody.vn/cao-bang": []
+    },
+    {
+        "https://www.foody.vn/cao-bang/travel": [
+            {
+                "href": "https://www.foody.vn/cao-bang/vi-hoang-hotel",
+                "src": "https://down-vn.img.susercontent.com/vn-11134259-7r98o-lwg3qwi43gezb0@resize_ss640x400",
+                "name": "Vi Ho\u00e0ng Hotel",
+                "address": "3 Ho\u00e0ng V\u0103n Th\u1ee5, Tp. Cao B\u1eb1ng, Cao B\u1eb1ng",
+                "user_href": "https://www.foody.vn/thanh-vien/foodee_q0b4so6a",
+                "user_src": "https://down-vn.img.susercontent.com/vn-11134259-7r98o-lwwm6nf2a47v6b@resize_w100",
+                "user_name": "L\u00fd \u0110inh",
+                "user_comment": "Th\u1eadt tuy\u1ec7t v\u1eddi                                                                 ",
+                "comment": "6",
+                "check_in": "0"
+            },
+            {
+                "href": "https://www.foody.vn/cao-bang/thac-ban-gioc-tl-206",
+                "src": "https://down-vn.img.susercontent.com/vn-11134259-7r98o-lwbwk2ddoesb31@resize_ss640x400",
+                "name": "Th\u00e1c B\u1ea3n Gi\u1ed1c - TL 206",
+                "address": "TL 206, \u0110\u00e0m Th\u1ee7y, Huy\u1ec7n Tr\u00f9ng Kh\u00e1nh, Cao B\u1eb1ng",
+                "user_href": "https://www.foody.vn/thanh-vien/maggiesuzzan",
+                "user_src": "https://down-vn.img.susercontent.com/vn-11134259-7r98o-lwaj9xrhngt782@resize_ss100x100",
+                "user_name": "Suzzan Ma",
+                "user_comment": "M\u1ed9t v\u1ebb \u0111\u1eb9p th\u1eadt ho\u00e0nh tr\u00e1ng v\u00e0 h\u00f9ng v\u0129 v\u00f4 c\u00f9ng t\u1eadn.                           ",
+                "comment": "2",
+                "check_in": "88"
+            },
+            {
+                "href": "https://www.foody.vn/cao-bang/dong-nguom-ngao",
+                "src": "https://down-vn.img.susercontent.com/vn-11134259-7r98o-lwa5wfs1vm5550@resize_ss640x400",
+                "name": "\u0110\u1ed9ng Ng\u01b0\u1eddm Ngao",
+                "address": "B\u1ea3n Gun, X\u00e3 \u0110\u00e0m Thu\u1ef7, Huy\u1ec7n Tr\u00f9ng Kh\u00e1nh, Cao B\u1eb1ng",
+                "user_href": "https://www.foody.vn/thanh-vien/maggiesuzzan",
+                "user_src": "https://down-vn.img.susercontent.com/vn-11134259-7r98o-lwaj9xrhngt782@resize_ss100x100",
+                "user_name": "Suzzan Ma",
+                "user_comment": "\u0110\u1ed9ng to\u1ea1 l\u1ea1c trong l\u00f2ng m\u1ed9t qu\u1ea3 n\u00fai, c\u00e1ch th\u00e1c B\u1ea3n Gi\u1ed1c 5 km. hang \u0111\u1ed9ng n\u00e0y c\u00f3 t\u1ed5ng chi\u1ec1u d\u00e0i h\u01a1n 2 ng\u00e0n m\u00e9t, c\u00f3 3 c\u1eeda ch\u00ednh: Ng\u01b0\u1eddm Ngao, Ng\u01b0\u1eddm L\u1ed3m v\u00e0 B\u1ea3n Thu\u00f4n c\u00f3 r\u1ea5t nhi\u1ec1u nh\u0169 \u0111\u00e1, m\u0103ng \u0111\u00e1 v\u1edbi c\u00e1c h\u00ecnh ...",
+                "comment": "1",
+                "check_in": "31"
+            },
+            {
+                "href": "https://www.foody.vn/cao-bang/sunny-hotel-kim-dong",
+                "src": "https://down-vn.img.susercontent.com/vn-11134259-7r98o-lwcznjrrccm322@resize_ss640x400",
+                "name": "Sunny Hotel - Kim \u0110\u1ed3ng",
+                "address": "40 Kim \u0110\u1ed3ng, Tp. Cao B\u1eb1ng, Cao B\u1eb1ng",
+                "user_href": "https://www.foody.vn/thanh-vien/thach.hanghn4828",
+                "user_src": "https://down-vn.img.susercontent.com/vn-11134259-7r98o-lwwm6nf2a47v6b@resize_w100",
+                "user_name": "H\u1eb1ng Th\u1ea1ch",
+                "user_comment": "Kh\u00e1ch s\u1ea1n \u0111\u1eb9p,r\u1ed9ng r\u00e3i,ph\u00f2ng \u1ed1c \u0111\u1ea7y \u0111\u1ee7 ti\u1ec7n nghi.Nh\u1eadn ph\u00f2ng xong s\u1ebd c\u00f3 nh\u00e2n vi\u00ean mang \u0111\u1ed3 l\u00ean ph\u00f2ng cho b\u1ea1n,ngo\u00e0i ra c\u0169ng c\u00f3 c\u1ea3 d\u1ecbch v\u1ee5 gi\u1eb7t l\u00e0.Ph\u00f2ng \u0103n n\u1eb1m tr\u00ean t\u1ea7ng 11 c\u00f3 th\u1ec3 bao qu\u00e1t \u0111\u01b0\u1ee3c to\u00e0n th\u00e0nh ...",
+                "comment": "1",
+                "check_in": "0"
+            }
+        ]
+    },
+    {
+        "https://www.foody.vn/cao-bang/entertain": []
+    },
+    {
+        "https://www.foody.vn/cao-bang/shop": []
+    },
+    {
+        "https://www.foody.vn/cao-bang/service": []
+    }
+]
