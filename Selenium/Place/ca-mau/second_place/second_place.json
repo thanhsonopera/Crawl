@@ -2456,7 +2456,32 @@
         ]
     },
     {
-        "https://www.foody.vn/ca-mau/entertain": []
+        "https://www.foody.vn/ca-mau/entertain": [
+            {
+                "href": "https://www.foody.vn/ca-mau/game-one-kitchen-tran-hung-dao",
+                "src": "https://down-vn.img.susercontent.com/vn-11134259-7r98o-lwexrnij7hzv98@resize_ss640x400",
+                "name": "Game One Kitchen  - Tr\u1ea7n H\u01b0ng \u0110\u1ea1o",
+                "address": "207 Tr\u1ea7n H\u01b0ng \u0110\u1ea1o, P. 5, Th\u00e0nh Ph\u1ed1 C\u00e0 Mau, C\u00e0 Mau",
+                "user_href": "https://www.foody.vn/thanh-vien/tri.do9470",
+                "user_src": "https://down-vn.img.susercontent.com/vn-11134259-7r98o-lwftdww7rw0rda@resize_ss100x100",
+                "user_name": "TR\u00cd \u0110\u1ed6",
+                "user_comment": "H\u1ea1t c\u01a1m chi\u00ean c\u00f2n n\u00f3ng d\u1ebbo kh\u00f4ng b\u1ecb kh\u00f4, g\u00e0 n\u01b0\u1edbng v\u00f9a \u0103n b\u00ean ngo\u00e0i th\u01a1m gi\u00f2n, b\u00ean trong n\u00f3ng v\u00e0 kh\u00f4ng b\u1ecb kh\u00f4, c\u00f3 c\u1ea3m gi\u00e1c v\u1eabn c\u00f2n n\u01b0\u1edbc, ngon ng\u1ecdt. Game th\u1ee7 th\u1eddi nay s\u01b0\u1edbng VL.",
+                "comment": "1",
+                "check_in": "4"
+            },
+            {
+                "href": "https://www.foody.vn/ca-mau/quynh-mai-karaoke",
+                "src": "https://down-vn.img.susercontent.com/vn-11134259-7r98o-lwde344dmuvt43@resize_ss640x400",
+                "name": "Qu\u1ef3nh Mai Karaoke",
+                "address": "T\u00e2n Duy\u1ec7t, Huy\u1ec7n C\u00e1i N\u01b0\u1edbc, C\u00e0 Mau",
+                "user_href": "https://www.foody.vn/thanh-vien/jessephan",
+                "user_src": "https://down-vn.img.susercontent.com/vn-11134259-7r98o-lwf9dokuswkb79@resize_ss100x100",
+                "user_name": "Ho\u00e1",
+                "user_comment": "Qu\u00e1n n\u1eb1m \u1edf \u0111\u1ea7u l\u1ed9 T\u00e2n Duy\u1ec7t, c\u00f3 kho\u1ea3ng 4 - 5 ph\u00f2ng, m\u1ed7i ph\u00f2ng ch\u1ee9a \u0111\u01b0\u1ee3c kho\u1ea3ng 15 - 20 ng. Ch\u1ea5t l\u01b0\u1ee3ng \u00e2m thanh t\u1ea1m \u1ed5n, trinh \u0111i\u1ec1u khi\u1ec3n nh\u1ea1c h\u01a1i chu\u1ed1i (m\u00e0n h\u00ecnh c\u1ea3m \u1ee9ng d\u00f9ng android c\u1ea5u h\u00ecnh th\u1ea5p n\u00ean ...",
+                "comment": "1",
+                "check_in": "9"
+            }
+        ]
     },
     {
         "https://www.foody.vn/ca-mau/shop": [

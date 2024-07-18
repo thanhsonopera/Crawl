@@ -7,7 +7,6 @@ from tqdm import tqdm
 from selenium.common.exceptions import NoSuchElementException
 
 os.environ['WDM_SSL_VERIFY'] = '0'
-# https://stackoverflow.com/questions/76614392/getting-error-when-i-run-selenium-script-value-error-timeout-value-connect-was
 
 start_time = time.time()
 
@@ -16,6 +15,7 @@ with open(filename, 'r') as f:
     data_loaded = json.load(f)
 
 print(len(data_loaded['place']))
+
 for place in tqdm(data_loaded['place']):
     print('\n', place)
     try:

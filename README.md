@@ -58,3 +58,4 @@ python crw.py
 - category_crw.py to convert folder Place
 - place_crw.py to convert place.json
 - restaurant_cvt to match all link folder Place - place_tree.json
+- folder data_review_in_shop : format data

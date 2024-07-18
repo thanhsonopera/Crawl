@@ -201,5 +201,5 @@ if __name__ == '__main__':
                 print(third_place['src_place'])
 
             print('---------------------------------')
-        if (place_name == 'hau-giang'):
+        if (place_name == 'Kedah'):
             check = True
