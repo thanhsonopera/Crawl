@@ -48,7 +48,7 @@ def getComment(href, num_comments):
 
     time.sleep(2)
     try:
-        for attempt in range(7):
+        for attempt in range(3):
             driver.get(href)
             try:
                 if "404" in driver.page_source:
@@ -203,7 +203,7 @@ def getComment(href, num_comments):
                     ".//a[@class='microsite-cuisine']").text
 
                 time_open_shop = header_i.find_element_by_xpath(
-                    ".//div[@class='micro-timesopen']/span[@class='itsclosed']/following-sibling::span[1]").text
+                    ".//div[@class='micro-timesopen']/span[3]").text
 
                 spn = header_i.find_element_by_xpath(
                     ".//div[@class='res-common-minmaxprice']")
@@ -281,7 +281,7 @@ def getComment(href, num_comments):
                             user_name = user.find_element_by_xpath(
                                 ".//div[@class='ru-row']/a").text
                             user_timec = user.find_element_by_xpath(
-                                ".//div[@class='ru-stats']/a/span").text
+                                ".//div[@class='ru-stats']/span").text
                             user_ratingP = user.find_element_by_xpath(
                                 ".//div[contains(@class, 'review-points')]/span").text
                         except Exception as e:
@@ -410,7 +410,7 @@ if __name__ == '__main__':
     pbar = tqdm(paths)
     for path in pbar:
         place = path.split('\\')[1]
-        src = 'Place/' + place + '/second_place'
+        src = 'Place/' + place + '/comments'
         print('\n', place)
 
         # comments_shop, cnt, info, menuL, galleryL = getComment(
@@ -432,9 +432,10 @@ if __name__ == '__main__':
                             all_comments = json.load(f)
                     else:
                         all_comments = []
+                    print(category)
                     shop_order = 0
                     for shop in tqdm(val):
-                        if shop_order > 64:
+                        if shop_order >= 96:
                             comments_shop, cnt, info, menuL, galleryL = getComment(
                                 shop['href'], num_comments)
 
@@ -445,7 +446,7 @@ if __name__ == '__main__':
                                  'info': info,
                                  'menu': menuL,
                                  'gallery': galleryL,
-                                 'shop_order': shop_order})
+                                 'shop_order': shop_order + 1})
 
                         print('\n Shop order: ', shop_order)
                         shop_order += 1
