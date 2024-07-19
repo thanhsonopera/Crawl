@@ -435,7 +435,7 @@ if __name__ == '__main__':
                     print(category)
                     shop_order = 0
                     for shop in tqdm(val):
-                        if shop_order >= 96:
+                        if shop_order >= 154:
                             comments_shop, cnt, info, menuL, galleryL = getComment(
                                 shop['href'], num_comments)
 
