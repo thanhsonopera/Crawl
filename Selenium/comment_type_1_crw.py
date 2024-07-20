@@ -424,6 +424,8 @@ if __name__ == '__main__':
                     print('\n', key)
                     category = key.split('/')[-1]
                     # all_comments = []
+                    if key == 'an-giang':
+                        continue
                     if not (category == place):
                         category = place + '_' + category
                     num_comments = 0
@@ -435,7 +437,7 @@ if __name__ == '__main__':
                     print(category)
                     shop_order = 0
                     for shop in tqdm(val):
-                        if shop_order >= 154:
+                        if shop_order >= 0:
                             comments_shop, cnt, info, menuL, galleryL = getComment(
                                 shop['href'], num_comments)
 
