@@ -412,7 +412,8 @@ if __name__ == '__main__':
         place = path.split('\\')[1]
         src = 'Place/' + place + '/comments'
         print('\n', place)
-
+        if (place == 'an-giang'):
+            continue
         # comments_shop, cnt, info, menuL, galleryL = getComment(
         #     'https://www.foody.vn/ho-chi-minh/quan-co-ba-banh-can-banh-xeo-phan-rang', pbar.n)
         with open(path, 'r') as f:
@@ -424,8 +425,6 @@ if __name__ == '__main__':
                     print('\n', key)
                     category = key.split('/')[-1]
                     # all_comments = []
-                    if key == 'an-giang':
-                        continue
                     if not (category == place):
                         category = place + '_' + category
                     num_comments = 0
