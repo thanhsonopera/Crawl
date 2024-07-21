@@ -27,6 +27,7 @@ import re
 
 
 def getComment(href, num_comments):
+    print('Link shop:', href)
     start = time.time()
     comments_shop = []
     cnt = 0
@@ -405,14 +406,17 @@ def getComment(href, num_comments):
 if __name__ == '__main__':
 
     os.environ['WDM_SSL_VERIFY'] = '0'
-
+    done_place = 'bac-lieu'
+    check = False
     paths = glob('Place/*/second_place/*.json')
     pbar = tqdm(paths)
     for path in pbar:
         place = path.split('\\')[1]
         src = 'Place/' + place + '/comments'
         print('\n', place)
-        if (place == 'an-giang'):
+        if not check:
+            if (place == done_place):
+                check = True
             continue
         # comments_shop, cnt, info, menuL, galleryL = getComment(
         #     'https://www.foody.vn/ho-chi-minh/quan-co-ba-banh-can-banh-xeo-phan-rang', pbar.n)
@@ -424,6 +428,10 @@ if __name__ == '__main__':
                 for key, val in data_shop.items():
                     print('\n', key)
                     category = key.split('/')[-1]
+
+                    if (category != place):
+                        continue
+
                     # all_comments = []
                     if not (category == place):
                         category = place + '_' + category
@@ -432,13 +440,16 @@ if __name__ == '__main__':
                         with open(src + '/comment_{}.json'.format(category), 'r') as f:
                             all_comments = json.load(f)
                     else:
+                        os.makedirs(src, exist_ok=True)
                         all_comments = []
                     print(category)
                     shop_order = 0
                     for shop in tqdm(val):
-                        if shop_order >= 0:
-                            comments_shop, cnt, info, menuL, galleryL = getComment(
-                                shop['href'], num_comments)
+                        if shop_order >= 152:
+                            comments_shop, cnt, info, menuL, galleryL = [], 0, [], [], []
+                            if shop['href'] != None:
+                                comments_shop, cnt, info, menuL, galleryL = getComment(
+                                    shop['href'].replace("shopeefood", "foody"), num_comments)
 
                             # num_comments += cnt
 
