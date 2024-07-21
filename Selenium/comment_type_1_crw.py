@@ -406,7 +406,7 @@ def getComment(href, num_comments):
 if __name__ == '__main__':
 
     os.environ['WDM_SSL_VERIFY'] = '0'
-    done_place = 'bac-lieu'
+    done_place = 'bangkok'
     check = False
     paths = glob('Place/*/second_place/*.json')
     pbar = tqdm(paths)
@@ -445,7 +445,7 @@ if __name__ == '__main__':
                     print(category)
                     shop_order = 0
                     for shop in tqdm(val):
-                        if shop_order >= 152:
+                        if shop_order >= 0:
                             comments_shop, cnt, info, menuL, galleryL = [], 0, [], [], []
                             if shop['href'] != None:
                                 comments_shop, cnt, info, menuL, galleryL = getComment(
@@ -462,19 +462,6 @@ if __name__ == '__main__':
 
                         print('\n Shop order: ', shop_order)
                         shop_order += 1
-                        # print('Number of comments: ', num_comments)
 
-                        # if os.path.exists(src + '/comment_{}.json'.format(category)):
-                        #     with open(src + '/comment_{}.json'.format(category), 'r') as f:
-                        #         data = json.load(f)
-                        #         data.extend(all_comments)
-
-                        #     with open(src + '/comment_{}.json'.format(category), 'w') as f:
-                        #         json.dump(data, f)
-                        # else:
                         with open(src + '/comment_{}.json'.format(category), 'w') as f:
                             json.dump(all_comments, f)
-
-                # print(src + '/comment_{}.json'.format(category))
-
-        #     driver.quit()
