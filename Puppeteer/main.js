@@ -495,4 +495,4 @@ async function main(place, numHref, numShop, isLogger = true, isImg = true) {
     }
     
 }
-main('ho-chi-minh', 0, 281);
+main('ho-chi-minh', 0, 311);
