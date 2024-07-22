@@ -1,1 +1,63 @@
-{"https://www.foody.vn/dong-nai": ["https://www.foody.vn/dong-nai/food/sang-trong", "https://www.foody.vn/dong-nai/food/buffet", "https://www.foody.vn/dong-nai/food/nha-hang", "https://www.foody.vn/dong-nai/food/an-vat-via-he", "https://www.foody.vn/dong-nai/food/an-chay", "https://www.foody.vn/dong-nai/food/cafe", "https://www.foody.vn/dong-nai/food/quan-an", "https://www.foody.vn/dong-nai/food/bar-pub", "https://www.foody.vn/dong-nai/food/quan-nhau", "https://www.foody.vn/dong-nai/food/beer-club", "https://www.foody.vn/dong-nai/food/tiem-banh", "https://www.foody.vn/dong-nai/food/tiec-tan-noi", "https://www.foody.vn/dong-nai/food/shop-online", "https://www.foody.vn/dong-nai/food/giao-com-van-phong", "https://www.foody.vn/dong-nai/food/Foodcourt"], "https://www.foody.vn/dong-nai/travel": ["https://www.foody.vn/dong-nai/food/sang-trong", "https://www.foody.vn/dong-nai/food/buffet", "https://www.foody.vn/dong-nai/food/nha-hang", "https://www.foody.vn/dong-nai/food/an-vat-via-he", "https://www.foody.vn/dong-nai/food/an-chay", "https://www.foody.vn/dong-nai/food/cafe", "https://www.foody.vn/dong-nai/food/quan-an", "https://www.foody.vn/dong-nai/food/bar-pub", "https://www.foody.vn/dong-nai/food/quan-nhau", "https://www.foody.vn/dong-nai/food/beer-club", "https://www.foody.vn/dong-nai/food/tiem-banh", "https://www.foody.vn/dong-nai/food/tiec-tan-noi", "https://www.foody.vn/dong-nai/food/shop-online", "https://www.foody.vn/dong-nai/food/giao-com-van-phong", "https://www.foody.vn/dong-nai/food/Foodcourt"], "https://www.foody.vn/dong-nai/entertain": ["https://www.foody.vn/dong-nai/food/sang-trong", "https://www.foody.vn/dong-nai/food/buffet", "https://www.foody.vn/dong-nai/food/nha-hang", "https://www.foody.vn/dong-nai/food/an-vat-via-he", "https://www.foody.vn/dong-nai/food/an-chay", "https://www.foody.vn/dong-nai/food/cafe", "https://www.foody.vn/dong-nai/food/quan-an", "https://www.foody.vn/dong-nai/food/bar-pub", "https://www.foody.vn/dong-nai/food/quan-nhau", "https://www.foody.vn/dong-nai/food/beer-club", "https://www.foody.vn/dong-nai/food/tiem-banh", "https://www.foody.vn/dong-nai/food/tiec-tan-noi", "https://www.foody.vn/dong-nai/food/shop-online", "https://www.foody.vn/dong-nai/food/giao-com-van-phong", "https://www.foody.vn/dong-nai/food/Foodcourt"], "https://www.foody.vn/dong-nai/shop": ["https://www.foody.vn/dong-nai/food/sang-trong", "https://www.foody.vn/dong-nai/food/buffet", "https://www.foody.vn/dong-nai/food/nha-hang", "https://www.foody.vn/dong-nai/food/an-vat-via-he", "https://www.foody.vn/dong-nai/food/an-chay", "https://www.foody.vn/dong-nai/food/cafe", "https://www.foody.vn/dong-nai/food/quan-an", "https://www.foody.vn/dong-nai/food/bar-pub", "https://www.foody.vn/dong-nai/food/quan-nhau", "https://www.foody.vn/dong-nai/food/beer-club", "https://www.foody.vn/dong-nai/food/tiem-banh", "https://www.foody.vn/dong-nai/food/tiec-tan-noi", "https://www.foody.vn/dong-nai/food/shop-online", "https://www.foody.vn/dong-nai/food/giao-com-van-phong", "https://www.foody.vn/dong-nai/food/Foodcourt"], "https://www.foody.vn/dong-nai/service": ["https://www.foody.vn/dong-nai/food/sang-trong", "https://www.foody.vn/dong-nai/food/buffet", "https://www.foody.vn/dong-nai/food/nha-hang", "https://www.foody.vn/dong-nai/food/an-vat-via-he", "https://www.foody.vn/dong-nai/food/an-chay", "https://www.foody.vn/dong-nai/food/cafe", "https://www.foody.vn/dong-nai/food/quan-an", "https://www.foody.vn/dong-nai/food/bar-pub", "https://www.foody.vn/dong-nai/food/quan-nhau", "https://www.foody.vn/dong-nai/food/beer-club", "https://www.foody.vn/dong-nai/food/tiem-banh", "https://www.foody.vn/dong-nai/food/tiec-tan-noi", "https://www.foody.vn/dong-nai/food/shop-online", "https://www.foody.vn/dong-nai/food/giao-com-van-phong", "https://www.foody.vn/dong-nai/food/Foodcourt"]}
+{
+    "https://www.foody.vn/dong-nai": [
+        "https://www.foody.vn/dong-nai/food/sang-trong",
+        "https://www.foody.vn/dong-nai/food/buffet",
+        "https://www.foody.vn/dong-nai/food/nha-hang",
+        "https://www.foody.vn/dong-nai/food/an-vat-via-he",
+        "https://www.foody.vn/dong-nai/food/an-chay",
+        "https://www.foody.vn/dong-nai/food/cafe",
+        "https://www.foody.vn/dong-nai/food/quan-an",
+        "https://www.foody.vn/dong-nai/food/bar-pub",
+        "https://www.foody.vn/dong-nai/food/quan-nhau",
+        "https://www.foody.vn/dong-nai/food/beer-club",
+        "https://www.foody.vn/dong-nai/food/tiem-banh",
+        "https://www.foody.vn/dong-nai/food/tiec-tan-noi",
+        "https://www.foody.vn/dong-nai/food/shop-online",
+        "https://www.foody.vn/dong-nai/food/giao-com-van-phong",
+        "https://www.foody.vn/dong-nai/food/Foodcourt"
+    ],
+    "https://www.foody.vn/dong-nai/travel": [
+        "https://www.foody.vn/dong-nai/travel/khu-du-lich",
+        "https://www.foody.vn/dong-nai/travel/khach-san",
+        "https://www.foody.vn/dong-nai/travel/khu-nghi-duong",
+        "https://www.foody.vn/dong-nai/travel/du-lich-sinh-thai",
+        "https://www.foody.vn/dong-nai/travel/tau-du-lich",
+        "https://www.foody.vn/dong-nai/travel/cong-vien-vui-choi",
+        "https://www.foody.vn/dong-nai/travel/bao-tang-di-tich",
+        "https://www.foody.vn/dong-nai/travel/dia-danh",
+        "https://www.foody.vn/dong-nai/travel/phong-ve-may-bay",
+        "https://www.foody.vn/dong-nai/travel/phuong-tien-xe-co",
+        "https://www.foody.vn/dong-nai/travel/home-stay",
+        "https://www.foody.vn/dong-nai/travel/can-ho",
+        "https://www.foody.vn/dong-nai/travel/nha-nghi",
+        "https://www.foody.vn/dong-nai/travel/hang-du-lich"
+    ],
+    "https://www.foody.vn/dong-nai/entertain": [
+        "https://www.foody.vn/dong-nai/entertain/karaoke",
+        "https://www.foody.vn/dong-nai/entertain/billiards",
+        "https://www.foody.vn/dong-nai/entertain/giai-tri",
+        "https://www.foody.vn/dong-nai/entertain/san-khau",
+        "https://www.foody.vn/dong-nai/entertain/khu-choi-game",
+        "https://www.foody.vn/phim-anh"
+    ],
+    "https://www.foody.vn/dong-nai/shop": [
+        "https://www.foody.vn/dong-nai/shop/cua-hang",
+        "https://www.foody.vn/dong-nai/shop/sieu-thi",
+        "https://www.foody.vn/dong-nai/shop/trung-tam-thuong-mai",
+        "https://www.foody.vn/dong-nai/shop/cho",
+        "https://www.foody.vn/dong-nai/shop/online-shopping"
+    ],
+    "https://www.foody.vn/dong-nai/service": [
+        "https://www.foody.vn/dong-nai/service/bank-atm",
+        "https://www.foody.vn/dong-nai/service/tram-xang",
+        "https://www.foody.vn/dong-nai/service/vien-thong",
+        "https://www.foody.vn/dong-nai/service/van-tai",
+        "https://www.foody.vn/dong-nai/service/giat-ui",
+        "https://www.foody.vn/dong-nai/service/vat-nuoi",
+        "https://www.foody.vn/dong-nai/service/tru-so-ban-nganh",
+        "https://www.foody.vn/dong-nai/service/dich-vu-ve-sinh",
+        "https://www.foody.vn/dong-nai/service/dich-vu-sua-chua-nha-cua",
+        "https://www.foody.vn/dong-nai/service/dich-vu-van-chuyen-do-dac",
+        "https://www.foody.vn/dong-nai/service/cua-hang-phu-kien"
+    ]
+}

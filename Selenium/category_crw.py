@@ -15,9 +15,13 @@ with open(filename, 'r') as f:
     data_loaded = json.load(f)
 
 print(len(data_loaded['place']))
-
+check = False
 for place in tqdm(data_loaded['place']):
     print('\n', place)
+    if not check:
+        if (place == 'nghe-an'):
+            check = True
+        continue
     try:
         driver = webdriver.Chrome(
             executable_path=r'C:\Users\thanh\Desktop\CRAWL\Selenium\chromedriver\chromedriver.exe')
@@ -45,7 +49,7 @@ for place in tqdm(data_loaded['place']):
                 all_href_menu_1.append(href)
 
                 all_href_menu_2[href] = []
-                ul_2 = level1.find_element_by_xpath("//ul[@class='menu-box']")
+                ul_2 = level1.find_element_by_xpath(".//ul[@class='menu-box']")
 
                 for level2 in ul_2.find_elements_by_xpath(".//li"):
 
@@ -54,7 +58,7 @@ for place in tqdm(data_loaded['place']):
                     all_href_menu_2[href].append(href_2)
 
             # print(all_href_menu_1)
-            # print(all_href_menu_2)
+            print(all_href_menu_2)
             filename = folder + '/all_category.json'
 
             with open(filename, 'w') as f:

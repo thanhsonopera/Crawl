@@ -1,1 +1,63 @@
-{"https://www.foody.vn/kon-tum": ["https://www.foody.vn/kon-tum/food/sang-trong", "https://www.foody.vn/kon-tum/food/buffet", "https://www.foody.vn/kon-tum/food/nha-hang", "https://www.foody.vn/kon-tum/food/an-vat-via-he", "https://www.foody.vn/kon-tum/food/an-chay", "https://www.foody.vn/kon-tum/food/cafe", "https://www.foody.vn/kon-tum/food/quan-an", "https://www.foody.vn/kon-tum/food/bar-pub", "https://www.foody.vn/kon-tum/food/quan-nhau", "https://www.foody.vn/kon-tum/food/beer-club", "https://www.foody.vn/kon-tum/food/tiem-banh", "https://www.foody.vn/kon-tum/food/tiec-tan-noi", "https://www.foody.vn/kon-tum/food/shop-online", "https://www.foody.vn/kon-tum/food/giao-com-van-phong", "https://www.foody.vn/kon-tum/food/Foodcourt"], "https://www.foody.vn/kon-tum/travel": ["https://www.foody.vn/kon-tum/food/sang-trong", "https://www.foody.vn/kon-tum/food/buffet", "https://www.foody.vn/kon-tum/food/nha-hang", "https://www.foody.vn/kon-tum/food/an-vat-via-he", "https://www.foody.vn/kon-tum/food/an-chay", "https://www.foody.vn/kon-tum/food/cafe", "https://www.foody.vn/kon-tum/food/quan-an", "https://www.foody.vn/kon-tum/food/bar-pub", "https://www.foody.vn/kon-tum/food/quan-nhau", "https://www.foody.vn/kon-tum/food/beer-club", "https://www.foody.vn/kon-tum/food/tiem-banh", "https://www.foody.vn/kon-tum/food/tiec-tan-noi", "https://www.foody.vn/kon-tum/food/shop-online", "https://www.foody.vn/kon-tum/food/giao-com-van-phong", "https://www.foody.vn/kon-tum/food/Foodcourt"], "https://www.foody.vn/kon-tum/entertain": ["https://www.foody.vn/kon-tum/food/sang-trong", "https://www.foody.vn/kon-tum/food/buffet", "https://www.foody.vn/kon-tum/food/nha-hang", "https://www.foody.vn/kon-tum/food/an-vat-via-he", "https://www.foody.vn/kon-tum/food/an-chay", "https://www.foody.vn/kon-tum/food/cafe", "https://www.foody.vn/kon-tum/food/quan-an", "https://www.foody.vn/kon-tum/food/bar-pub", "https://www.foody.vn/kon-tum/food/quan-nhau", "https://www.foody.vn/kon-tum/food/beer-club", "https://www.foody.vn/kon-tum/food/tiem-banh", "https://www.foody.vn/kon-tum/food/tiec-tan-noi", "https://www.foody.vn/kon-tum/food/shop-online", "https://www.foody.vn/kon-tum/food/giao-com-van-phong", "https://www.foody.vn/kon-tum/food/Foodcourt"], "https://www.foody.vn/kon-tum/shop": ["https://www.foody.vn/kon-tum/food/sang-trong", "https://www.foody.vn/kon-tum/food/buffet", "https://www.foody.vn/kon-tum/food/nha-hang", "https://www.foody.vn/kon-tum/food/an-vat-via-he", "https://www.foody.vn/kon-tum/food/an-chay", "https://www.foody.vn/kon-tum/food/cafe", "https://www.foody.vn/kon-tum/food/quan-an", "https://www.foody.vn/kon-tum/food/bar-pub", "https://www.foody.vn/kon-tum/food/quan-nhau", "https://www.foody.vn/kon-tum/food/beer-club", "https://www.foody.vn/kon-tum/food/tiem-banh", "https://www.foody.vn/kon-tum/food/tiec-tan-noi", "https://www.foody.vn/kon-tum/food/shop-online", "https://www.foody.vn/kon-tum/food/giao-com-van-phong", "https://www.foody.vn/kon-tum/food/Foodcourt"], "https://www.foody.vn/kon-tum/service": ["https://www.foody.vn/kon-tum/food/sang-trong", "https://www.foody.vn/kon-tum/food/buffet", "https://www.foody.vn/kon-tum/food/nha-hang", "https://www.foody.vn/kon-tum/food/an-vat-via-he", "https://www.foody.vn/kon-tum/food/an-chay", "https://www.foody.vn/kon-tum/food/cafe", "https://www.foody.vn/kon-tum/food/quan-an", "https://www.foody.vn/kon-tum/food/bar-pub", "https://www.foody.vn/kon-tum/food/quan-nhau", "https://www.foody.vn/kon-tum/food/beer-club", "https://www.foody.vn/kon-tum/food/tiem-banh", "https://www.foody.vn/kon-tum/food/tiec-tan-noi", "https://www.foody.vn/kon-tum/food/shop-online", "https://www.foody.vn/kon-tum/food/giao-com-van-phong", "https://www.foody.vn/kon-tum/food/Foodcourt"]}
+{
+    "https://www.foody.vn/kon-tum": [
+        "https://www.foody.vn/kon-tum/food/sang-trong",
+        "https://www.foody.vn/kon-tum/food/buffet",
+        "https://www.foody.vn/kon-tum/food/nha-hang",
+        "https://www.foody.vn/kon-tum/food/an-vat-via-he",
+        "https://www.foody.vn/kon-tum/food/an-chay",
+        "https://www.foody.vn/kon-tum/food/cafe",
+        "https://www.foody.vn/kon-tum/food/quan-an",
+        "https://www.foody.vn/kon-tum/food/bar-pub",
+        "https://www.foody.vn/kon-tum/food/quan-nhau",
+        "https://www.foody.vn/kon-tum/food/beer-club",
+        "https://www.foody.vn/kon-tum/food/tiem-banh",
+        "https://www.foody.vn/kon-tum/food/tiec-tan-noi",
+        "https://www.foody.vn/kon-tum/food/shop-online",
+        "https://www.foody.vn/kon-tum/food/giao-com-van-phong",
+        "https://www.foody.vn/kon-tum/food/Foodcourt"
+    ],
+    "https://www.foody.vn/kon-tum/travel": [
+        "https://www.foody.vn/kon-tum/travel/khu-du-lich",
+        "https://www.foody.vn/kon-tum/travel/khach-san",
+        "https://www.foody.vn/kon-tum/travel/khu-nghi-duong",
+        "https://www.foody.vn/kon-tum/travel/du-lich-sinh-thai",
+        "https://www.foody.vn/kon-tum/travel/tau-du-lich",
+        "https://www.foody.vn/kon-tum/travel/cong-vien-vui-choi",
+        "https://www.foody.vn/kon-tum/travel/bao-tang-di-tich",
+        "https://www.foody.vn/kon-tum/travel/dia-danh",
+        "https://www.foody.vn/kon-tum/travel/phong-ve-may-bay",
+        "https://www.foody.vn/kon-tum/travel/phuong-tien-xe-co",
+        "https://www.foody.vn/kon-tum/travel/home-stay",
+        "https://www.foody.vn/kon-tum/travel/can-ho",
+        "https://www.foody.vn/kon-tum/travel/nha-nghi",
+        "https://www.foody.vn/kon-tum/travel/hang-du-lich"
+    ],
+    "https://www.foody.vn/kon-tum/entertain": [
+        "https://www.foody.vn/kon-tum/entertain/karaoke",
+        "https://www.foody.vn/kon-tum/entertain/billiards",
+        "https://www.foody.vn/kon-tum/entertain/giai-tri",
+        "https://www.foody.vn/kon-tum/entertain/san-khau",
+        "https://www.foody.vn/kon-tum/entertain/khu-choi-game",
+        "https://www.foody.vn/phim-anh"
+    ],
+    "https://www.foody.vn/kon-tum/shop": [
+        "https://www.foody.vn/kon-tum/shop/cua-hang",
+        "https://www.foody.vn/kon-tum/shop/sieu-thi",
+        "https://www.foody.vn/kon-tum/shop/trung-tam-thuong-mai",
+        "https://www.foody.vn/kon-tum/shop/cho",
+        "https://www.foody.vn/kon-tum/shop/online-shopping"
+    ],
+    "https://www.foody.vn/kon-tum/service": [
+        "https://www.foody.vn/kon-tum/service/bank-atm",
+        "https://www.foody.vn/kon-tum/service/tram-xang",
+        "https://www.foody.vn/kon-tum/service/vien-thong",
+        "https://www.foody.vn/kon-tum/service/van-tai",
+        "https://www.foody.vn/kon-tum/service/giat-ui",
+        "https://www.foody.vn/kon-tum/service/vat-nuoi",
+        "https://www.foody.vn/kon-tum/service/tru-so-ban-nganh",
+        "https://www.foody.vn/kon-tum/service/dich-vu-ve-sinh",
+        "https://www.foody.vn/kon-tum/service/dich-vu-sua-chua-nha-cua",
+        "https://www.foody.vn/kon-tum/service/dich-vu-van-chuyen-do-dac",
+        "https://www.foody.vn/kon-tum/service/cua-hang-phu-kien"
+    ]
+}

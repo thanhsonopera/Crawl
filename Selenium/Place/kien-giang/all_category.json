@@ -1,1 +1,63 @@
-{"https://www.foody.vn/kien-giang": ["https://www.foody.vn/kien-giang/food/sang-trong", "https://www.foody.vn/kien-giang/food/buffet", "https://www.foody.vn/kien-giang/food/nha-hang", "https://www.foody.vn/kien-giang/food/an-vat-via-he", "https://www.foody.vn/kien-giang/food/an-chay", "https://www.foody.vn/kien-giang/food/cafe", "https://www.foody.vn/kien-giang/food/quan-an", "https://www.foody.vn/kien-giang/food/bar-pub", "https://www.foody.vn/kien-giang/food/quan-nhau", "https://www.foody.vn/kien-giang/food/beer-club", "https://www.foody.vn/kien-giang/food/tiem-banh", "https://www.foody.vn/kien-giang/food/tiec-tan-noi", "https://www.foody.vn/kien-giang/food/shop-online", "https://www.foody.vn/kien-giang/food/giao-com-van-phong", "https://www.foody.vn/kien-giang/food/Foodcourt"], "https://www.foody.vn/kien-giang/travel": ["https://www.foody.vn/kien-giang/food/sang-trong", "https://www.foody.vn/kien-giang/food/buffet", "https://www.foody.vn/kien-giang/food/nha-hang", "https://www.foody.vn/kien-giang/food/an-vat-via-he", "https://www.foody.vn/kien-giang/food/an-chay", "https://www.foody.vn/kien-giang/food/cafe", "https://www.foody.vn/kien-giang/food/quan-an", "https://www.foody.vn/kien-giang/food/bar-pub", "https://www.foody.vn/kien-giang/food/quan-nhau", "https://www.foody.vn/kien-giang/food/beer-club", "https://www.foody.vn/kien-giang/food/tiem-banh", "https://www.foody.vn/kien-giang/food/tiec-tan-noi", "https://www.foody.vn/kien-giang/food/shop-online", "https://www.foody.vn/kien-giang/food/giao-com-van-phong", "https://www.foody.vn/kien-giang/food/Foodcourt"], "https://www.foody.vn/kien-giang/entertain": ["https://www.foody.vn/kien-giang/food/sang-trong", "https://www.foody.vn/kien-giang/food/buffet", "https://www.foody.vn/kien-giang/food/nha-hang", "https://www.foody.vn/kien-giang/food/an-vat-via-he", "https://www.foody.vn/kien-giang/food/an-chay", "https://www.foody.vn/kien-giang/food/cafe", "https://www.foody.vn/kien-giang/food/quan-an", "https://www.foody.vn/kien-giang/food/bar-pub", "https://www.foody.vn/kien-giang/food/quan-nhau", "https://www.foody.vn/kien-giang/food/beer-club", "https://www.foody.vn/kien-giang/food/tiem-banh", "https://www.foody.vn/kien-giang/food/tiec-tan-noi", "https://www.foody.vn/kien-giang/food/shop-online", "https://www.foody.vn/kien-giang/food/giao-com-van-phong", "https://www.foody.vn/kien-giang/food/Foodcourt"], "https://www.foody.vn/kien-giang/shop": ["https://www.foody.vn/kien-giang/food/sang-trong", "https://www.foody.vn/kien-giang/food/buffet", "https://www.foody.vn/kien-giang/food/nha-hang", "https://www.foody.vn/kien-giang/food/an-vat-via-he", "https://www.foody.vn/kien-giang/food/an-chay", "https://www.foody.vn/kien-giang/food/cafe", "https://www.foody.vn/kien-giang/food/quan-an", "https://www.foody.vn/kien-giang/food/bar-pub", "https://www.foody.vn/kien-giang/food/quan-nhau", "https://www.foody.vn/kien-giang/food/beer-club", "https://www.foody.vn/kien-giang/food/tiem-banh", "https://www.foody.vn/kien-giang/food/tiec-tan-noi", "https://www.foody.vn/kien-giang/food/shop-online", "https://www.foody.vn/kien-giang/food/giao-com-van-phong", "https://www.foody.vn/kien-giang/food/Foodcourt"], "https://www.foody.vn/kien-giang/service": ["https://www.foody.vn/kien-giang/food/sang-trong", "https://www.foody.vn/kien-giang/food/buffet", "https://www.foody.vn/kien-giang/food/nha-hang", "https://www.foody.vn/kien-giang/food/an-vat-via-he", "https://www.foody.vn/kien-giang/food/an-chay", "https://www.foody.vn/kien-giang/food/cafe", "https://www.foody.vn/kien-giang/food/quan-an", "https://www.foody.vn/kien-giang/food/bar-pub", "https://www.foody.vn/kien-giang/food/quan-nhau", "https://www.foody.vn/kien-giang/food/beer-club", "https://www.foody.vn/kien-giang/food/tiem-banh", "https://www.foody.vn/kien-giang/food/tiec-tan-noi", "https://www.foody.vn/kien-giang/food/shop-online", "https://www.foody.vn/kien-giang/food/giao-com-van-phong", "https://www.foody.vn/kien-giang/food/Foodcourt"]}
+{
+    "https://www.foody.vn/kien-giang": [
+        "https://www.foody.vn/kien-giang/food/sang-trong",
+        "https://www.foody.vn/kien-giang/food/buffet",
+        "https://www.foody.vn/kien-giang/food/nha-hang",
+        "https://www.foody.vn/kien-giang/food/an-vat-via-he",
+        "https://www.foody.vn/kien-giang/food/an-chay",
+        "https://www.foody.vn/kien-giang/food/cafe",
+        "https://www.foody.vn/kien-giang/food/quan-an",
+        "https://www.foody.vn/kien-giang/food/bar-pub",
+        "https://www.foody.vn/kien-giang/food/quan-nhau",
+        "https://www.foody.vn/kien-giang/food/beer-club",
+        "https://www.foody.vn/kien-giang/food/tiem-banh",
+        "https://www.foody.vn/kien-giang/food/tiec-tan-noi",
+        "https://www.foody.vn/kien-giang/food/shop-online",
+        "https://www.foody.vn/kien-giang/food/giao-com-van-phong",
+        "https://www.foody.vn/kien-giang/food/Foodcourt"
+    ],
+    "https://www.foody.vn/kien-giang/travel": [
+        "https://www.foody.vn/kien-giang/travel/khu-du-lich",
+        "https://www.foody.vn/kien-giang/travel/khach-san",
+        "https://www.foody.vn/kien-giang/travel/khu-nghi-duong",
+        "https://www.foody.vn/kien-giang/travel/du-lich-sinh-thai",
+        "https://www.foody.vn/kien-giang/travel/tau-du-lich",
+        "https://www.foody.vn/kien-giang/travel/cong-vien-vui-choi",
+        "https://www.foody.vn/kien-giang/travel/bao-tang-di-tich",
+        "https://www.foody.vn/kien-giang/travel/dia-danh",
+        "https://www.foody.vn/kien-giang/travel/phong-ve-may-bay",
+        "https://www.foody.vn/kien-giang/travel/phuong-tien-xe-co",
+        "https://www.foody.vn/kien-giang/travel/home-stay",
+        "https://www.foody.vn/kien-giang/travel/can-ho",
+        "https://www.foody.vn/kien-giang/travel/nha-nghi",
+        "https://www.foody.vn/kien-giang/travel/hang-du-lich"
+    ],
+    "https://www.foody.vn/kien-giang/entertain": [
+        "https://www.foody.vn/kien-giang/entertain/karaoke",
+        "https://www.foody.vn/kien-giang/entertain/billiards",
+        "https://www.foody.vn/kien-giang/entertain/giai-tri",
+        "https://www.foody.vn/kien-giang/entertain/san-khau",
+        "https://www.foody.vn/kien-giang/entertain/khu-choi-game",
+        "https://www.foody.vn/phim-anh"
+    ],
+    "https://www.foody.vn/kien-giang/shop": [
+        "https://www.foody.vn/kien-giang/shop/cua-hang",
+        "https://www.foody.vn/kien-giang/shop/sieu-thi",
+        "https://www.foody.vn/kien-giang/shop/trung-tam-thuong-mai",
+        "https://www.foody.vn/kien-giang/shop/cho",
+        "https://www.foody.vn/kien-giang/shop/online-shopping"
+    ],
+    "https://www.foody.vn/kien-giang/service": [
+        "https://www.foody.vn/kien-giang/service/bank-atm",
+        "https://www.foody.vn/kien-giang/service/tram-xang",
+        "https://www.foody.vn/kien-giang/service/vien-thong",
+        "https://www.foody.vn/kien-giang/service/van-tai",
+        "https://www.foody.vn/kien-giang/service/giat-ui",
+        "https://www.foody.vn/kien-giang/service/vat-nuoi",
+        "https://www.foody.vn/kien-giang/service/tru-so-ban-nganh",
+        "https://www.foody.vn/kien-giang/service/dich-vu-ve-sinh",
+        "https://www.foody.vn/kien-giang/service/dich-vu-sua-chua-nha-cua",
+        "https://www.foody.vn/kien-giang/service/dich-vu-van-chuyen-do-dac",
+        "https://www.foody.vn/kien-giang/service/cua-hang-phu-kien"
+    ]
+}

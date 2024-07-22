@@ -1,0 +1,63 @@
+{
+    "https://www.foody.vn/hau-giang": [
+        "https://www.foody.vn/hau-giang/food/sang-trong",
+        "https://www.foody.vn/hau-giang/food/buffet",
+        "https://www.foody.vn/hau-giang/food/nha-hang",
+        "https://www.foody.vn/hau-giang/food/an-vat-via-he",
+        "https://www.foody.vn/hau-giang/food/an-chay",
+        "https://www.foody.vn/hau-giang/food/cafe",
+        "https://www.foody.vn/hau-giang/food/quan-an",
+        "https://www.foody.vn/hau-giang/food/bar-pub",
+        "https://www.foody.vn/hau-giang/food/quan-nhau",
+        "https://www.foody.vn/hau-giang/food/beer-club",
+        "https://www.foody.vn/hau-giang/food/tiem-banh",
+        "https://www.foody.vn/hau-giang/food/tiec-tan-noi",
+        "https://www.foody.vn/hau-giang/food/shop-online",
+        "https://www.foody.vn/hau-giang/food/giao-com-van-phong",
+        "https://www.foody.vn/hau-giang/food/Foodcourt"
+    ],
+    "https://www.foody.vn/hau-giang/travel": [
+        "https://www.foody.vn/hau-giang/travel/khu-du-lich",
+        "https://www.foody.vn/hau-giang/travel/khach-san",
+        "https://www.foody.vn/hau-giang/travel/khu-nghi-duong",
+        "https://www.foody.vn/hau-giang/travel/du-lich-sinh-thai",
+        "https://www.foody.vn/hau-giang/travel/tau-du-lich",
+        "https://www.foody.vn/hau-giang/travel/cong-vien-vui-choi",
+        "https://www.foody.vn/hau-giang/travel/bao-tang-di-tich",
+        "https://www.foody.vn/hau-giang/travel/dia-danh",
+        "https://www.foody.vn/hau-giang/travel/phong-ve-may-bay",
+        "https://www.foody.vn/hau-giang/travel/phuong-tien-xe-co",
+        "https://www.foody.vn/hau-giang/travel/home-stay",
+        "https://www.foody.vn/hau-giang/travel/can-ho",
+        "https://www.foody.vn/hau-giang/travel/nha-nghi",
+        "https://www.foody.vn/hau-giang/travel/hang-du-lich"
+    ],
+    "https://www.foody.vn/hau-giang/entertain": [
+        "https://www.foody.vn/hau-giang/entertain/karaoke",
+        "https://www.foody.vn/hau-giang/entertain/billiards",
+        "https://www.foody.vn/hau-giang/entertain/giai-tri",
+        "https://www.foody.vn/hau-giang/entertain/san-khau",
+        "https://www.foody.vn/hau-giang/entertain/khu-choi-game",
+        "https://www.foody.vn/phim-anh"
+    ],
+    "https://www.foody.vn/hau-giang/shop": [
+        "https://www.foody.vn/hau-giang/shop/cua-hang",
+        "https://www.foody.vn/hau-giang/shop/sieu-thi",
+        "https://www.foody.vn/hau-giang/shop/trung-tam-thuong-mai",
+        "https://www.foody.vn/hau-giang/shop/cho",
+        "https://www.foody.vn/hau-giang/shop/online-shopping"
+    ],
+    "https://www.foody.vn/hau-giang/service": [
+        "https://www.foody.vn/hau-giang/service/bank-atm",
+        "https://www.foody.vn/hau-giang/service/tram-xang",
+        "https://www.foody.vn/hau-giang/service/vien-thong",
+        "https://www.foody.vn/hau-giang/service/van-tai",
+        "https://www.foody.vn/hau-giang/service/giat-ui",
+        "https://www.foody.vn/hau-giang/service/vat-nuoi",
+        "https://www.foody.vn/hau-giang/service/tru-so-ban-nganh",
+        "https://www.foody.vn/hau-giang/service/dich-vu-ve-sinh",
+        "https://www.foody.vn/hau-giang/service/dich-vu-sua-chua-nha-cua",
+        "https://www.foody.vn/hau-giang/service/dich-vu-van-chuyen-do-dac",
+        "https://www.foody.vn/hau-giang/service/cua-hang-phu-kien"
+    ]
+}

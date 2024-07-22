@@ -1,1 +1,78 @@
-{"https://www.foody.vn/hue": ["https://www.foody.vn/hue/food/sang-trong", "https://www.foody.vn/hue/food/buffet", "https://www.foody.vn/hue/food/nha-hang", "https://www.foody.vn/hue/food/an-vat-via-he", "https://www.foody.vn/hue/food/an-chay", "https://www.foody.vn/hue/food/cafe", "https://www.foody.vn/hue/food/quan-an", "https://www.foody.vn/hue/food/bar-pub", "https://www.foody.vn/hue/food/quan-nhau", "https://www.foody.vn/hue/food/beer-club", "https://www.foody.vn/hue/food/tiem-banh", "https://www.foody.vn/hue/food/tiec-tan-noi", "https://www.foody.vn/hue/food/shop-online", "https://www.foody.vn/hue/food/giao-com-van-phong", "https://www.foody.vn/hue/food/Foodcourt"], "https://www.foody.vn/hue/travel": ["https://www.foody.vn/hue/food/sang-trong", "https://www.foody.vn/hue/food/buffet", "https://www.foody.vn/hue/food/nha-hang", "https://www.foody.vn/hue/food/an-vat-via-he", "https://www.foody.vn/hue/food/an-chay", "https://www.foody.vn/hue/food/cafe", "https://www.foody.vn/hue/food/quan-an", "https://www.foody.vn/hue/food/bar-pub", "https://www.foody.vn/hue/food/quan-nhau", "https://www.foody.vn/hue/food/beer-club", "https://www.foody.vn/hue/food/tiem-banh", "https://www.foody.vn/hue/food/tiec-tan-noi", "https://www.foody.vn/hue/food/shop-online", "https://www.foody.vn/hue/food/giao-com-van-phong", "https://www.foody.vn/hue/food/Foodcourt"], "https://www.foody.vn/hue/beauty": ["https://www.foody.vn/hue/food/sang-trong", "https://www.foody.vn/hue/food/buffet", "https://www.foody.vn/hue/food/nha-hang", "https://www.foody.vn/hue/food/an-vat-via-he", "https://www.foody.vn/hue/food/an-chay", "https://www.foody.vn/hue/food/cafe", "https://www.foody.vn/hue/food/quan-an", "https://www.foody.vn/hue/food/bar-pub", "https://www.foody.vn/hue/food/quan-nhau", "https://www.foody.vn/hue/food/beer-club", "https://www.foody.vn/hue/food/tiem-banh", "https://www.foody.vn/hue/food/tiec-tan-noi", "https://www.foody.vn/hue/food/shop-online", "https://www.foody.vn/hue/food/giao-com-van-phong", "https://www.foody.vn/hue/food/Foodcourt"], "https://www.foody.vn/hue/entertain": ["https://www.foody.vn/hue/food/sang-trong", "https://www.foody.vn/hue/food/buffet", "https://www.foody.vn/hue/food/nha-hang", "https://www.foody.vn/hue/food/an-vat-via-he", "https://www.foody.vn/hue/food/an-chay", "https://www.foody.vn/hue/food/cafe", "https://www.foody.vn/hue/food/quan-an", "https://www.foody.vn/hue/food/bar-pub", "https://www.foody.vn/hue/food/quan-nhau", "https://www.foody.vn/hue/food/beer-club", "https://www.foody.vn/hue/food/tiem-banh", "https://www.foody.vn/hue/food/tiec-tan-noi", "https://www.foody.vn/hue/food/shop-online", "https://www.foody.vn/hue/food/giao-com-van-phong", "https://www.foody.vn/hue/food/Foodcourt"], "https://www.foody.vn/hue/shop": ["https://www.foody.vn/hue/food/sang-trong", "https://www.foody.vn/hue/food/buffet", "https://www.foody.vn/hue/food/nha-hang", "https://www.foody.vn/hue/food/an-vat-via-he", "https://www.foody.vn/hue/food/an-chay", "https://www.foody.vn/hue/food/cafe", "https://www.foody.vn/hue/food/quan-an", "https://www.foody.vn/hue/food/bar-pub", "https://www.foody.vn/hue/food/quan-nhau", "https://www.foody.vn/hue/food/beer-club", "https://www.foody.vn/hue/food/tiem-banh", "https://www.foody.vn/hue/food/tiec-tan-noi", "https://www.foody.vn/hue/food/shop-online", "https://www.foody.vn/hue/food/giao-com-van-phong", "https://www.foody.vn/hue/food/Foodcourt"], "https://www.foody.vn/hue/service": ["https://www.foody.vn/hue/food/sang-trong", "https://www.foody.vn/hue/food/buffet", "https://www.foody.vn/hue/food/nha-hang", "https://www.foody.vn/hue/food/an-vat-via-he", "https://www.foody.vn/hue/food/an-chay", "https://www.foody.vn/hue/food/cafe", "https://www.foody.vn/hue/food/quan-an", "https://www.foody.vn/hue/food/bar-pub", "https://www.foody.vn/hue/food/quan-nhau", "https://www.foody.vn/hue/food/beer-club", "https://www.foody.vn/hue/food/tiem-banh", "https://www.foody.vn/hue/food/tiec-tan-noi", "https://www.foody.vn/hue/food/shop-online", "https://www.foody.vn/hue/food/giao-com-van-phong", "https://www.foody.vn/hue/food/Foodcourt"]}
+{
+    "https://www.foody.vn/hue": [
+        "https://www.foody.vn/hue/food/sang-trong",
+        "https://www.foody.vn/hue/food/buffet",
+        "https://www.foody.vn/hue/food/nha-hang",
+        "https://www.foody.vn/hue/food/an-vat-via-he",
+        "https://www.foody.vn/hue/food/an-chay",
+        "https://www.foody.vn/hue/food/cafe",
+        "https://www.foody.vn/hue/food/quan-an",
+        "https://www.foody.vn/hue/food/bar-pub",
+        "https://www.foody.vn/hue/food/quan-nhau",
+        "https://www.foody.vn/hue/food/beer-club",
+        "https://www.foody.vn/hue/food/tiem-banh",
+        "https://www.foody.vn/hue/food/tiec-tan-noi",
+        "https://www.foody.vn/hue/food/shop-online",
+        "https://www.foody.vn/hue/food/giao-com-van-phong",
+        "https://www.foody.vn/hue/food/Foodcourt"
+    ],
+    "https://www.foody.vn/hue/travel": [
+        "https://www.foody.vn/hue/travel/khu-du-lich",
+        "https://www.foody.vn/hue/travel/khach-san",
+        "https://www.foody.vn/hue/travel/khu-nghi-duong",
+        "https://www.foody.vn/hue/travel/du-lich-sinh-thai",
+        "https://www.foody.vn/hue/travel/tau-du-lich",
+        "https://www.foody.vn/hue/travel/cong-vien-vui-choi",
+        "https://www.foody.vn/hue/travel/bao-tang-di-tich",
+        "https://www.foody.vn/hue/travel/dia-danh",
+        "https://www.foody.vn/hue/travel/phong-ve-may-bay",
+        "https://www.foody.vn/hue/travel/phuong-tien-xe-co",
+        "https://www.foody.vn/hue/travel/home-stay",
+        "https://www.foody.vn/hue/travel/can-ho",
+        "https://www.foody.vn/hue/travel/nha-nghi",
+        "https://www.foody.vn/hue/travel/hang-du-lich"
+    ],
+    "https://www.foody.vn/hue/beauty": [
+        "https://www.foody.vn/hue/beauty/spa-massage",
+        "https://www.foody.vn/hue/beauty/lam-toc",
+        "https://www.foody.vn/hue/beauty/the-duc-tham-my",
+        "https://www.foody.vn/hue/beauty/tiem-nail",
+        "https://www.foody.vn/hue/beauty/cham-soc-da",
+        "https://www.foody.vn/hue/beauty/shop-hoa-my-pham",
+        "https://www.foody.vn/hue/beauty/ho-boi-san-van-dong",
+        "https://www.foody.vn/hue/beauty/tham-my-vien",
+        "https://www.foody.vn/hue/beauty/xam-hinh",
+        "https://www.foody.vn/hue/beauty/phong-kham",
+        "https://www.foody.vn/hue/beauty/nha-khoa",
+        "https://www.foody.vn/hue/beauty/nha-thuoc",
+        "https://www.foody.vn/hue/beauty/benh-vien"
+    ],
+    "https://www.foody.vn/hue/entertain": [
+        "https://www.foody.vn/hue/entertain/karaoke",
+        "https://www.foody.vn/hue/entertain/billiards",
+        "https://www.foody.vn/hue/entertain/giai-tri",
+        "https://www.foody.vn/hue/entertain/san-khau",
+        "https://www.foody.vn/hue/entertain/khu-choi-game",
+        "https://www.foody.vn/phim-anh"
+    ],
+    "https://www.foody.vn/hue/shop": [
+        "https://www.foody.vn/hue/shop/cua-hang",
+        "https://www.foody.vn/hue/shop/sieu-thi",
+        "https://www.foody.vn/hue/shop/trung-tam-thuong-mai",
+        "https://www.foody.vn/hue/shop/cho",
+        "https://www.foody.vn/hue/shop/online-shopping"
+    ],
+    "https://www.foody.vn/hue/service": [
+        "https://www.foody.vn/hue/service/bank-atm",
+        "https://www.foody.vn/hue/service/tram-xang",
+        "https://www.foody.vn/hue/service/vien-thong",
+        "https://www.foody.vn/hue/service/van-tai",
+        "https://www.foody.vn/hue/service/giat-ui",
+        "https://www.foody.vn/hue/service/vat-nuoi",
+        "https://www.foody.vn/hue/service/tru-so-ban-nganh",
+        "https://www.foody.vn/hue/service/dich-vu-ve-sinh",
+        "https://www.foody.vn/hue/service/dich-vu-sua-chua-nha-cua",
+        "https://www.foody.vn/hue/service/dich-vu-van-chuyen-do-dac",
+        "https://www.foody.vn/hue/service/cua-hang-phu-kien"
+    ]
+}

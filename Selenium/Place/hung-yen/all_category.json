@@ -1,1 +1,63 @@
-{"https://www.foody.vn/hung-yen": ["https://www.foody.vn/hung-yen/food/sang-trong", "https://www.foody.vn/hung-yen/food/buffet", "https://www.foody.vn/hung-yen/food/nha-hang", "https://www.foody.vn/hung-yen/food/an-vat-via-he", "https://www.foody.vn/hung-yen/food/an-chay", "https://www.foody.vn/hung-yen/food/cafe", "https://www.foody.vn/hung-yen/food/quan-an", "https://www.foody.vn/hung-yen/food/bar-pub", "https://www.foody.vn/hung-yen/food/quan-nhau", "https://www.foody.vn/hung-yen/food/beer-club", "https://www.foody.vn/hung-yen/food/tiem-banh", "https://www.foody.vn/hung-yen/food/tiec-tan-noi", "https://www.foody.vn/hung-yen/food/shop-online", "https://www.foody.vn/hung-yen/food/giao-com-van-phong", "https://www.foody.vn/hung-yen/food/Foodcourt"], "https://www.foody.vn/hung-yen/travel": ["https://www.foody.vn/hung-yen/food/sang-trong", "https://www.foody.vn/hung-yen/food/buffet", "https://www.foody.vn/hung-yen/food/nha-hang", "https://www.foody.vn/hung-yen/food/an-vat-via-he", "https://www.foody.vn/hung-yen/food/an-chay", "https://www.foody.vn/hung-yen/food/cafe", "https://www.foody.vn/hung-yen/food/quan-an", "https://www.foody.vn/hung-yen/food/bar-pub", "https://www.foody.vn/hung-yen/food/quan-nhau", "https://www.foody.vn/hung-yen/food/beer-club", "https://www.foody.vn/hung-yen/food/tiem-banh", "https://www.foody.vn/hung-yen/food/tiec-tan-noi", "https://www.foody.vn/hung-yen/food/shop-online", "https://www.foody.vn/hung-yen/food/giao-com-van-phong", "https://www.foody.vn/hung-yen/food/Foodcourt"], "https://www.foody.vn/hung-yen/entertain": ["https://www.foody.vn/hung-yen/food/sang-trong", "https://www.foody.vn/hung-yen/food/buffet", "https://www.foody.vn/hung-yen/food/nha-hang", "https://www.foody.vn/hung-yen/food/an-vat-via-he", "https://www.foody.vn/hung-yen/food/an-chay", "https://www.foody.vn/hung-yen/food/cafe", "https://www.foody.vn/hung-yen/food/quan-an", "https://www.foody.vn/hung-yen/food/bar-pub", "https://www.foody.vn/hung-yen/food/quan-nhau", "https://www.foody.vn/hung-yen/food/beer-club", "https://www.foody.vn/hung-yen/food/tiem-banh", "https://www.foody.vn/hung-yen/food/tiec-tan-noi", "https://www.foody.vn/hung-yen/food/shop-online", "https://www.foody.vn/hung-yen/food/giao-com-van-phong", "https://www.foody.vn/hung-yen/food/Foodcourt"], "https://www.foody.vn/hung-yen/shop": ["https://www.foody.vn/hung-yen/food/sang-trong", "https://www.foody.vn/hung-yen/food/buffet", "https://www.foody.vn/hung-yen/food/nha-hang", "https://www.foody.vn/hung-yen/food/an-vat-via-he", "https://www.foody.vn/hung-yen/food/an-chay", "https://www.foody.vn/hung-yen/food/cafe", "https://www.foody.vn/hung-yen/food/quan-an", "https://www.foody.vn/hung-yen/food/bar-pub", "https://www.foody.vn/hung-yen/food/quan-nhau", "https://www.foody.vn/hung-yen/food/beer-club", "https://www.foody.vn/hung-yen/food/tiem-banh", "https://www.foody.vn/hung-yen/food/tiec-tan-noi", "https://www.foody.vn/hung-yen/food/shop-online", "https://www.foody.vn/hung-yen/food/giao-com-van-phong", "https://www.foody.vn/hung-yen/food/Foodcourt"], "https://www.foody.vn/hung-yen/service": ["https://www.foody.vn/hung-yen/food/sang-trong", "https://www.foody.vn/hung-yen/food/buffet", "https://www.foody.vn/hung-yen/food/nha-hang", "https://www.foody.vn/hung-yen/food/an-vat-via-he", "https://www.foody.vn/hung-yen/food/an-chay", "https://www.foody.vn/hung-yen/food/cafe", "https://www.foody.vn/hung-yen/food/quan-an", "https://www.foody.vn/hung-yen/food/bar-pub", "https://www.foody.vn/hung-yen/food/quan-nhau", "https://www.foody.vn/hung-yen/food/beer-club", "https://www.foody.vn/hung-yen/food/tiem-banh", "https://www.foody.vn/hung-yen/food/tiec-tan-noi", "https://www.foody.vn/hung-yen/food/shop-online", "https://www.foody.vn/hung-yen/food/giao-com-van-phong", "https://www.foody.vn/hung-yen/food/Foodcourt"]}
+{
+    "https://www.foody.vn/hung-yen": [
+        "https://www.foody.vn/hung-yen/food/sang-trong",
+        "https://www.foody.vn/hung-yen/food/buffet",
+        "https://www.foody.vn/hung-yen/food/nha-hang",
+        "https://www.foody.vn/hung-yen/food/an-vat-via-he",
+        "https://www.foody.vn/hung-yen/food/an-chay",
+        "https://www.foody.vn/hung-yen/food/cafe",
+        "https://www.foody.vn/hung-yen/food/quan-an",
+        "https://www.foody.vn/hung-yen/food/bar-pub",
+        "https://www.foody.vn/hung-yen/food/quan-nhau",
+        "https://www.foody.vn/hung-yen/food/beer-club",
+        "https://www.foody.vn/hung-yen/food/tiem-banh",
+        "https://www.foody.vn/hung-yen/food/tiec-tan-noi",
+        "https://www.foody.vn/hung-yen/food/shop-online",
+        "https://www.foody.vn/hung-yen/food/giao-com-van-phong",
+        "https://www.foody.vn/hung-yen/food/Foodcourt"
+    ],
+    "https://www.foody.vn/hung-yen/travel": [
+        "https://www.foody.vn/hung-yen/travel/khu-du-lich",
+        "https://www.foody.vn/hung-yen/travel/khach-san",
+        "https://www.foody.vn/hung-yen/travel/khu-nghi-duong",
+        "https://www.foody.vn/hung-yen/travel/du-lich-sinh-thai",
+        "https://www.foody.vn/hung-yen/travel/tau-du-lich",
+        "https://www.foody.vn/hung-yen/travel/cong-vien-vui-choi",
+        "https://www.foody.vn/hung-yen/travel/bao-tang-di-tich",
+        "https://www.foody.vn/hung-yen/travel/dia-danh",
+        "https://www.foody.vn/hung-yen/travel/phong-ve-may-bay",
+        "https://www.foody.vn/hung-yen/travel/phuong-tien-xe-co",
+        "https://www.foody.vn/hung-yen/travel/home-stay",
+        "https://www.foody.vn/hung-yen/travel/can-ho",
+        "https://www.foody.vn/hung-yen/travel/nha-nghi",
+        "https://www.foody.vn/hung-yen/travel/hang-du-lich"
+    ],
+    "https://www.foody.vn/hung-yen/entertain": [
+        "https://www.foody.vn/hung-yen/entertain/karaoke",
+        "https://www.foody.vn/hung-yen/entertain/billiards",
+        "https://www.foody.vn/hung-yen/entertain/giai-tri",
+        "https://www.foody.vn/hung-yen/entertain/san-khau",
+        "https://www.foody.vn/hung-yen/entertain/khu-choi-game",
+        "https://www.foody.vn/phim-anh"
+    ],
+    "https://www.foody.vn/hung-yen/shop": [
+        "https://www.foody.vn/hung-yen/shop/cua-hang",
+        "https://www.foody.vn/hung-yen/shop/sieu-thi",
+        "https://www.foody.vn/hung-yen/shop/trung-tam-thuong-mai",
+        "https://www.foody.vn/hung-yen/shop/cho",
+        "https://www.foody.vn/hung-yen/shop/online-shopping"
+    ],
+    "https://www.foody.vn/hung-yen/service": [
+        "https://www.foody.vn/hung-yen/service/bank-atm",
+        "https://www.foody.vn/hung-yen/service/tram-xang",
+        "https://www.foody.vn/hung-yen/service/vien-thong",
+        "https://www.foody.vn/hung-yen/service/van-tai",
+        "https://www.foody.vn/hung-yen/service/giat-ui",
+        "https://www.foody.vn/hung-yen/service/vat-nuoi",
+        "https://www.foody.vn/hung-yen/service/tru-so-ban-nganh",
+        "https://www.foody.vn/hung-yen/service/dich-vu-ve-sinh",
+        "https://www.foody.vn/hung-yen/service/dich-vu-sua-chua-nha-cua",
+        "https://www.foody.vn/hung-yen/service/dich-vu-van-chuyen-do-dac",
+        "https://www.foody.vn/hung-yen/service/cua-hang-phu-kien"
+    ]
+}

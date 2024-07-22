@@ -1,0 +1,63 @@
+{
+    "https://www.foody.vn/nghe-an": [
+        "https://www.foody.vn/nghe-an/food/sang-trong",
+        "https://www.foody.vn/nghe-an/food/buffet",
+        "https://www.foody.vn/nghe-an/food/nha-hang",
+        "https://www.foody.vn/nghe-an/food/an-vat-via-he",
+        "https://www.foody.vn/nghe-an/food/an-chay",
+        "https://www.foody.vn/nghe-an/food/cafe",
+        "https://www.foody.vn/nghe-an/food/quan-an",
+        "https://www.foody.vn/nghe-an/food/bar-pub",
+        "https://www.foody.vn/nghe-an/food/quan-nhau",
+        "https://www.foody.vn/nghe-an/food/beer-club",
+        "https://www.foody.vn/nghe-an/food/tiem-banh",
+        "https://www.foody.vn/nghe-an/food/tiec-tan-noi",
+        "https://www.foody.vn/nghe-an/food/shop-online",
+        "https://www.foody.vn/nghe-an/food/giao-com-van-phong",
+        "https://www.foody.vn/nghe-an/food/Foodcourt"
+    ],
+    "https://www.foody.vn/nghe-an/travel": [
+        "https://www.foody.vn/nghe-an/travel/khu-du-lich",
+        "https://www.foody.vn/nghe-an/travel/khach-san",
+        "https://www.foody.vn/nghe-an/travel/khu-nghi-duong",
+        "https://www.foody.vn/nghe-an/travel/du-lich-sinh-thai",
+        "https://www.foody.vn/nghe-an/travel/tau-du-lich",
+        "https://www.foody.vn/nghe-an/travel/cong-vien-vui-choi",
+        "https://www.foody.vn/nghe-an/travel/bao-tang-di-tich",
+        "https://www.foody.vn/nghe-an/travel/dia-danh",
+        "https://www.foody.vn/nghe-an/travel/phong-ve-may-bay",
+        "https://www.foody.vn/nghe-an/travel/phuong-tien-xe-co",
+        "https://www.foody.vn/nghe-an/travel/home-stay",
+        "https://www.foody.vn/nghe-an/travel/can-ho",
+        "https://www.foody.vn/nghe-an/travel/nha-nghi",
+        "https://www.foody.vn/nghe-an/travel/hang-du-lich"
+    ],
+    "https://www.foody.vn/nghe-an/entertain": [
+        "https://www.foody.vn/nghe-an/entertain/karaoke",
+        "https://www.foody.vn/nghe-an/entertain/billiards",
+        "https://www.foody.vn/nghe-an/entertain/giai-tri",
+        "https://www.foody.vn/nghe-an/entertain/san-khau",
+        "https://www.foody.vn/nghe-an/entertain/khu-choi-game",
+        "https://www.foody.vn/phim-anh"
+    ],
+    "https://www.foody.vn/nghe-an/shop": [
+        "https://www.foody.vn/nghe-an/shop/cua-hang",
+        "https://www.foody.vn/nghe-an/shop/sieu-thi",
+        "https://www.foody.vn/nghe-an/shop/trung-tam-thuong-mai",
+        "https://www.foody.vn/nghe-an/shop/cho",
+        "https://www.foody.vn/nghe-an/shop/online-shopping"
+    ],
+    "https://www.foody.vn/nghe-an/service": [
+        "https://www.foody.vn/nghe-an/service/bank-atm",
+        "https://www.foody.vn/nghe-an/service/tram-xang",
+        "https://www.foody.vn/nghe-an/service/vien-thong",
+        "https://www.foody.vn/nghe-an/service/van-tai",
+        "https://www.foody.vn/nghe-an/service/giat-ui",
+        "https://www.foody.vn/nghe-an/service/vat-nuoi",
+        "https://www.foody.vn/nghe-an/service/tru-so-ban-nganh",
+        "https://www.foody.vn/nghe-an/service/dich-vu-ve-sinh",
+        "https://www.foody.vn/nghe-an/service/dich-vu-sua-chua-nha-cua",
+        "https://www.foody.vn/nghe-an/service/dich-vu-van-chuyen-do-dac",
+        "https://www.foody.vn/nghe-an/service/cua-hang-phu-kien"
+    ]
+}

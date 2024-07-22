@@ -1,1 +1,63 @@
-{"https://www.foody.vn/soc-trang": ["https://www.foody.vn/soc-trang/food/sang-trong", "https://www.foody.vn/soc-trang/food/buffet", "https://www.foody.vn/soc-trang/food/nha-hang", "https://www.foody.vn/soc-trang/food/an-vat-via-he", "https://www.foody.vn/soc-trang/food/an-chay", "https://www.foody.vn/soc-trang/food/cafe", "https://www.foody.vn/soc-trang/food/quan-an", "https://www.foody.vn/soc-trang/food/bar-pub", "https://www.foody.vn/soc-trang/food/quan-nhau", "https://www.foody.vn/soc-trang/food/beer-club", "https://www.foody.vn/soc-trang/food/tiem-banh", "https://www.foody.vn/soc-trang/food/tiec-tan-noi", "https://www.foody.vn/soc-trang/food/shop-online", "https://www.foody.vn/soc-trang/food/giao-com-van-phong", "https://www.foody.vn/soc-trang/food/Foodcourt"], "https://www.foody.vn/soc-trang/travel": ["https://www.foody.vn/soc-trang/food/sang-trong", "https://www.foody.vn/soc-trang/food/buffet", "https://www.foody.vn/soc-trang/food/nha-hang", "https://www.foody.vn/soc-trang/food/an-vat-via-he", "https://www.foody.vn/soc-trang/food/an-chay", "https://www.foody.vn/soc-trang/food/cafe", "https://www.foody.vn/soc-trang/food/quan-an", "https://www.foody.vn/soc-trang/food/bar-pub", "https://www.foody.vn/soc-trang/food/quan-nhau", "https://www.foody.vn/soc-trang/food/beer-club", "https://www.foody.vn/soc-trang/food/tiem-banh", "https://www.foody.vn/soc-trang/food/tiec-tan-noi", "https://www.foody.vn/soc-trang/food/shop-online", "https://www.foody.vn/soc-trang/food/giao-com-van-phong", "https://www.foody.vn/soc-trang/food/Foodcourt"], "https://www.foody.vn/soc-trang/entertain": ["https://www.foody.vn/soc-trang/food/sang-trong", "https://www.foody.vn/soc-trang/food/buffet", "https://www.foody.vn/soc-trang/food/nha-hang", "https://www.foody.vn/soc-trang/food/an-vat-via-he", "https://www.foody.vn/soc-trang/food/an-chay", "https://www.foody.vn/soc-trang/food/cafe", "https://www.foody.vn/soc-trang/food/quan-an", "https://www.foody.vn/soc-trang/food/bar-pub", "https://www.foody.vn/soc-trang/food/quan-nhau", "https://www.foody.vn/soc-trang/food/beer-club", "https://www.foody.vn/soc-trang/food/tiem-banh", "https://www.foody.vn/soc-trang/food/tiec-tan-noi", "https://www.foody.vn/soc-trang/food/shop-online", "https://www.foody.vn/soc-trang/food/giao-com-van-phong", "https://www.foody.vn/soc-trang/food/Foodcourt"], "https://www.foody.vn/soc-trang/shop": ["https://www.foody.vn/soc-trang/food/sang-trong", "https://www.foody.vn/soc-trang/food/buffet", "https://www.foody.vn/soc-trang/food/nha-hang", "https://www.foody.vn/soc-trang/food/an-vat-via-he", "https://www.foody.vn/soc-trang/food/an-chay", "https://www.foody.vn/soc-trang/food/cafe", "https://www.foody.vn/soc-trang/food/quan-an", "https://www.foody.vn/soc-trang/food/bar-pub", "https://www.foody.vn/soc-trang/food/quan-nhau", "https://www.foody.vn/soc-trang/food/beer-club", "https://www.foody.vn/soc-trang/food/tiem-banh", "https://www.foody.vn/soc-trang/food/tiec-tan-noi", "https://www.foody.vn/soc-trang/food/shop-online", "https://www.foody.vn/soc-trang/food/giao-com-van-phong", "https://www.foody.vn/soc-trang/food/Foodcourt"], "https://www.foody.vn/soc-trang/service": ["https://www.foody.vn/soc-trang/food/sang-trong", "https://www.foody.vn/soc-trang/food/buffet", "https://www.foody.vn/soc-trang/food/nha-hang", "https://www.foody.vn/soc-trang/food/an-vat-via-he", "https://www.foody.vn/soc-trang/food/an-chay", "https://www.foody.vn/soc-trang/food/cafe", "https://www.foody.vn/soc-trang/food/quan-an", "https://www.foody.vn/soc-trang/food/bar-pub", "https://www.foody.vn/soc-trang/food/quan-nhau", "https://www.foody.vn/soc-trang/food/beer-club", "https://www.foody.vn/soc-trang/food/tiem-banh", "https://www.foody.vn/soc-trang/food/tiec-tan-noi", "https://www.foody.vn/soc-trang/food/shop-online", "https://www.foody.vn/soc-trang/food/giao-com-van-phong", "https://www.foody.vn/soc-trang/food/Foodcourt"]}
+{
+    "https://www.foody.vn/soc-trang": [
+        "https://www.foody.vn/soc-trang/food/sang-trong",
+        "https://www.foody.vn/soc-trang/food/buffet",
+        "https://www.foody.vn/soc-trang/food/nha-hang",
+        "https://www.foody.vn/soc-trang/food/an-vat-via-he",
+        "https://www.foody.vn/soc-trang/food/an-chay",
+        "https://www.foody.vn/soc-trang/food/cafe",
+        "https://www.foody.vn/soc-trang/food/quan-an",
+        "https://www.foody.vn/soc-trang/food/bar-pub",
+        "https://www.foody.vn/soc-trang/food/quan-nhau",
+        "https://www.foody.vn/soc-trang/food/beer-club",
+        "https://www.foody.vn/soc-trang/food/tiem-banh",
+        "https://www.foody.vn/soc-trang/food/tiec-tan-noi",
+        "https://www.foody.vn/soc-trang/food/shop-online",
+        "https://www.foody.vn/soc-trang/food/giao-com-van-phong",
+        "https://www.foody.vn/soc-trang/food/Foodcourt"
+    ],
+    "https://www.foody.vn/soc-trang/travel": [
+        "https://www.foody.vn/soc-trang/travel/khu-du-lich",
+        "https://www.foody.vn/soc-trang/travel/khach-san",
+        "https://www.foody.vn/soc-trang/travel/khu-nghi-duong",
+        "https://www.foody.vn/soc-trang/travel/du-lich-sinh-thai",
+        "https://www.foody.vn/soc-trang/travel/tau-du-lich",
+        "https://www.foody.vn/soc-trang/travel/cong-vien-vui-choi",
+        "https://www.foody.vn/soc-trang/travel/bao-tang-di-tich",
+        "https://www.foody.vn/soc-trang/travel/dia-danh",
+        "https://www.foody.vn/soc-trang/travel/phong-ve-may-bay",
+        "https://www.foody.vn/soc-trang/travel/phuong-tien-xe-co",
+        "https://www.foody.vn/soc-trang/travel/home-stay",
+        "https://www.foody.vn/soc-trang/travel/can-ho",
+        "https://www.foody.vn/soc-trang/travel/nha-nghi",
+        "https://www.foody.vn/soc-trang/travel/hang-du-lich"
+    ],
+    "https://www.foody.vn/soc-trang/entertain": [
+        "https://www.foody.vn/soc-trang/entertain/karaoke",
+        "https://www.foody.vn/soc-trang/entertain/billiards",
+        "https://www.foody.vn/soc-trang/entertain/giai-tri",
+        "https://www.foody.vn/soc-trang/entertain/san-khau",
+        "https://www.foody.vn/soc-trang/entertain/khu-choi-game",
+        "https://www.foody.vn/phim-anh"
+    ],
+    "https://www.foody.vn/soc-trang/shop": [
+        "https://www.foody.vn/soc-trang/shop/cua-hang",
+        "https://www.foody.vn/soc-trang/shop/sieu-thi",
+        "https://www.foody.vn/soc-trang/shop/trung-tam-thuong-mai",
+        "https://www.foody.vn/soc-trang/shop/cho",
+        "https://www.foody.vn/soc-trang/shop/online-shopping"
+    ],
+    "https://www.foody.vn/soc-trang/service": [
+        "https://www.foody.vn/soc-trang/service/bank-atm",
+        "https://www.foody.vn/soc-trang/service/tram-xang",
+        "https://www.foody.vn/soc-trang/service/vien-thong",
+        "https://www.foody.vn/soc-trang/service/van-tai",
+        "https://www.foody.vn/soc-trang/service/giat-ui",
+        "https://www.foody.vn/soc-trang/service/vat-nuoi",
+        "https://www.foody.vn/soc-trang/service/tru-so-ban-nganh",
+        "https://www.foody.vn/soc-trang/service/dich-vu-ve-sinh",
+        "https://www.foody.vn/soc-trang/service/dich-vu-sua-chua-nha-cua",
+        "https://www.foody.vn/soc-trang/service/dich-vu-van-chuyen-do-dac",
+        "https://www.foody.vn/soc-trang/service/cua-hang-phu-kien"
+    ]
+}

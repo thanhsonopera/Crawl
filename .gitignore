@@ -2,4 +2,4 @@
 ## Dependency directories
 node_modules/
 package-lock.json
-Puppeteer/Logger/img
+Puppeteer/Logger/img/*

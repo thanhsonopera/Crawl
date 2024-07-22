@@ -2,7 +2,6 @@ import puppeteer from "puppeteer";
 import fs from "fs";
 import * as pathParse from "path";
 import { fileURLToPath } from 'url';
-import HIHI from "./multi.js";
 import { log } from "console";
 async function run(pathUrl, isImg = true) {
     var logger = []
@@ -615,6 +614,4 @@ async function main(place, numHref, numShop, isLogger = true, isImg = true) {
     }
     
 }
-main('ho-chi-minh', 0, 412);
-
 main('ho-chi-minh', 0, 419);
