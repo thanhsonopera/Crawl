@@ -45,7 +45,7 @@ for place in tqdm(data_loaded['place']):
                 all_href_menu_1.append(href)
 
                 all_href_menu_2[href] = []
-                ul_2 = level1.find_element_by_xpath("//ul[@id='nav-place-1']")
+                ul_2 = level1.find_element_by_xpath("//ul[@class='menu-box']")
 
                 for level2 in ul_2.find_elements_by_xpath(".//li"):
 

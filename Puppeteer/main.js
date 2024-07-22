@@ -496,6 +496,6 @@ async function main(place, numHref, numShop, isLogger = true, isImg = true) {
     }
     
 }
-main('ho-chi-minh', 0, 360);
+main('ho-chi-minh', 0, 409);
 
 // HIHI(run)
