@@ -2,6 +2,7 @@ import puppeteer from "puppeteer";
 import fs from "fs";
 import * as pathParse from "path";
 import { fileURLToPath } from 'url';
+import HIHI from "./multi.js";
 async function run(pathUrl, isImg = true) {
     var logger = []
     var menuL = []
@@ -495,4 +496,6 @@ async function main(place, numHref, numShop, isLogger = true, isImg = true) {
     }
     
 }
-main('ho-chi-minh', 0, 311);
+main('ho-chi-minh', 0, 360);
+
+// HIHI(run)
