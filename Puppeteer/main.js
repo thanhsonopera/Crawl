@@ -2,8 +2,8 @@ import puppeteer from "puppeteer";
 import fs from "fs";
 import * as pathParse from "path";
 import { fileURLToPath } from 'url';
+import shopMissing from "./loggerReader.js";
 import HIHI from "./multi.js";
-import { log } from "console";
 async function run(pathUrl, isImg = true) {
     var logger = []
     var menuL = []
@@ -624,4 +624,6 @@ async function main(place, numHref, numShop, createFile = 0, isLogger = true, is
     
 }
 
-main('ho-chi-minh', 0, 505, 1);
+main('ho-chi-minh', 0, 517, 1);
+
+// shopMissing('logger_ho-chi-minh_1.json', 505)
