@@ -568,7 +568,7 @@ async function main(place, numHref = 0, numShop = 0, createFile = 0, isLogger = 
                 numberCategory ++
                 continue
             }
-            for (var key in item)
+            for (var key in item) {
                 var arr = item[key]
                 let cate = key.split('/').pop()
                 console.log('key _ cate', key, ' ', cate)
@@ -646,6 +646,7 @@ async function main(place, numHref = 0, numShop = 0, createFile = 0, isLogger = 
                     }
                     tt += arr.length
                 }       
+            }
         }
             console.log('Total shop:', tt)
         }
