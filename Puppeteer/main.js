@@ -562,92 +562,92 @@ async function main(place, numHref = 0, numShop = 0, createFile = 0, isLogger = 
         var numberCategory = 0
         if (Array.isArray(obj)) {
             for (const item of obj)  {
-            var pathSave = `${commentPath}/comment`
-            var loggerSave = `${loggerPath}/logger`
-            if (numberCategory < numHref) {
-                numberCategory ++
-                continue
-            }
-            for (var key in item) {
-                var arr = item[key]
-                let cate = key.split('/').pop()
-                console.log('key _ cate', key, ' ', cate)
-                if (cate != '' && cate != place) {
-                    pathSave += '_' + place + '_' + cate 
-                    loggerSave += '_' + place + '_' + cate 
+                var pathSave = `${commentPath}/comment`
+                var loggerSave = `${loggerPath}/logger`
+                if (numberCategory < numHref) {
+                    numberCategory ++
+                    continue
                 }
-                else {
-                    pathSave += '_' + place 
-                    loggerSave += '_' + place 
-                }
-                if (createFile == 0) {
-                    pathSave += '.json'
-                    loggerSave += '.json'
-                }
-                else {
-                    pathSave += `_${createFile}.json`
-                    loggerSave += `_${createFile}.json`
-                }
-                console.log(pathSave)
-                var order = 0
-                if (Array.isArray(arr)) {
-                    var allComments = []
-                    var allLogger = []
-                    if (fs.existsSync(pathSave) && fs.existsSync(loggerSave)) {
-                        var data = fs.readFileSync(pathSave, 'utf8');
-                        var comments = JSON.parse(data);
-                        var dataLogger = fs.readFileSync(loggerSave, 'utf8');
-                        var loggerJson = JSON.parse(dataLogger);
-                        allComments = comments
-                        allLogger = loggerJson
-                        console.log('Have comments:', comments.length)
-                        console.log('Have logger:', loggerJson.length)
+                for (var key in item) {
+                    var arr = item[key]
+                    let cate = key.split('/').pop()
+                    console.log('key _ cate', key, ' ', cate)
+                    if (cate != '' && cate != place) {
+                        pathSave += '_' + place + '_' + cate 
+                        loggerSave += '_' + place + '_' + cate 
                     }
-                    console.log('Number shop', order)
-                    for (const childItem of arr) {
-                        if (order < numShop) {
+                    else {
+                        pathSave += '_' + place 
+                        loggerSave += '_' + place 
+                    }
+                    if (createFile == 0) {
+                        pathSave += '.json'
+                        loggerSave += '.json'
+                    }
+                    else {
+                        pathSave += `_${createFile}.json`
+                        loggerSave += `_${createFile}.json`
+                    }
+                    console.log(pathSave)
+                    var order = 0
+                    if (Array.isArray(arr)) {
+                        var allComments = []
+                        var allLogger = []
+                        if (fs.existsSync(pathSave) && fs.existsSync(loggerSave)) {
+                            var data = fs.readFileSync(pathSave, 'utf8');
+                            var comments = JSON.parse(data);
+                            var dataLogger = fs.readFileSync(loggerSave, 'utf8');
+                            var loggerJson = JSON.parse(dataLogger);
+                            allComments = comments
+                            allLogger = loggerJson
+                            console.log('Have comments:', comments.length)
+                            console.log('Have logger:', loggerJson.length)
+                        }
+                        console.log('Number shop', order)
+                        for (const childItem of arr) {
+                            if (order < numShop) {
+                                order ++ 
+                                continue
+                            }
+                            console.log('Link:', childItem['href'])
+                            var childItemHref = childItem['href'];
+                            try {
+                                if (childItemHref != null) {
+                                    childItemHref = childItemHref.replace("https://shopeefood.vn", "https://foody.vn");
+                                    const [menuL, galleryL, info, comments_shop, logger] = await run(childItemHref);
+                                    var data = {
+                                        [childItemHref]: comments_shop,
+                                        'info': info,
+                                        'menu': menuL,
+                                        'gallery': galleryL,
+                                        'shop_order': order + 1
+                                    };
+                                    allComments.push(data);
+                                    allLogger.push({'Log' : logger, 'shop_order': order + 1});
+                                }
+                                else {
+                                    allComments.push({'shop_order': order + 1});
+                                    allLogger.push({'shop_order': order + 1});
+                                }
+                            } catch (error) {
+                                console.error('Error processing item', error);
+                            }
+                            const allCommentsJson = JSON.stringify(allComments, null, 2);
+                            fs.writeFile(pathSave, allCommentsJson, (err) => {
+                                if (err) throw err;
+                                console.log("Data written to file");
+                            });
+                            const allLoggerJson = JSON.stringify(allLogger, null, 2);
+                            fs.writeFile(loggerSave, allLoggerJson, (err) => {
+                                if (err) throw err;
+                                console.log("Data written to file");
+                            });
                             order ++ 
-                            continue
                         }
-                        console.log('Link:', childItem['href'])
-                        var childItemHref = childItem['href'];
-                        try {
-                            if (childItemHref != null) {
-                                childItemHref = childItemHref.replace("https://shopeefood.vn", "https://foody.vn");
-                                const [menuL, galleryL, info, comments_shop, logger] = await run(childItemHref);
-                                var data = {
-                                    [childItemHref]: comments_shop,
-                                    'info': info,
-                                    'menu': menuL,
-                                    'gallery': galleryL,
-                                    'shop_order': order + 1
-                                };
-                                allComments.push(data);
-                                allLogger.push({'Log' : logger, 'shop_order': order + 1});
-                            }
-                            else {
-                                allComments.push({'shop_order': order + 1});
-                                allLogger.push({'shop_order': order + 1});
-                            }
-                        } catch (error) {
-                            console.error('Error processing item', error);
-                        }
-                        const allCommentsJson = JSON.stringify(allComments, null, 2);
-                        fs.writeFile(pathSave, allCommentsJson, (err) => {
-                            if (err) throw err;
-                            console.log("Data written to file");
-                        });
-                        const allLoggerJson = JSON.stringify(allLogger, null, 2);
-                        fs.writeFile(loggerSave, allLoggerJson, (err) => {
-                            if (err) throw err;
-                            console.log("Data written to file");
-                        });
-                        order ++ 
-                    }
-                    tt += arr.length
-                }       
+                        tt += arr.length
+                    }       
+                }
             }
-        }
             console.log('Total shop:', tt)
         }
     } catch (error) {
@@ -656,6 +656,6 @@ async function main(place, numHref = 0, numShop = 0, createFile = 0, isLogger = 
     
 }
 
-main('ho-chi-minh', 1, 0, 0);
+main('ho-chi-minh', 0, 839, 2);
 
 // shopMissing('logger_ho-chi-minh_1.json', 505)
