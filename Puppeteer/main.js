@@ -514,7 +514,7 @@ async function run(pathUrl, isImg = true) {
     console.log('Number cm:', menuL.length, ' ', galleryL.length, ' ', comments_shop.length) 
     return [menuL, galleryL, info, comments_shop, logger]
 }
-async function main(place, numHref, numShop, isLogger = true, isImg = true) {
+async function main(place, numHref, numShop, createFile = 0, isLogger = true, isImg = true) {
 
     const filePath = `Crawl/Selenium/Place/${place}/second_place/second_place.json`;
     const __filename = fileURLToPath(import.meta.url);
@@ -542,12 +542,20 @@ async function main(place, numHref, numShop, isLogger = true, isImg = true) {
                 let cate = key.split('/').pop()
                 console.log('key _ cate', key, ' ', cate)
                 if (cate != '' && cate != place) {
-                    pathSave += '_' + place + '_' + cate + '.json'
-                    loggerSave += '_' + place + '_' + cate + '.json'
+                    pathSave += '_' + place + '_' + cate 
+                    loggerSave += '_' + place + '_' + cate 
                 }
                 else {
-                    pathSave += '_' + place + '.json'
-                    loggerSave += '_' + place + '.json'
+                    pathSave += '_' + place 
+                    loggerSave += '_' + place 
+                }
+                if (createFile == 0) {
+                    pathSave += '.json'
+                    loggerSave += '.json'
+                }
+                else {
+                    pathSave += `_${createFile}.json`
+                    loggerSave += `_${createFile}.json`
                 }
                 console.log(pathSave)
                 var order = 0
@@ -608,13 +616,12 @@ async function main(place, numHref, numShop, isLogger = true, isImg = true) {
                     tt += arr.length
                 }       
         }
-            console.log('Total:', tt)
+            console.log('Total shop:', tt)
         }
     } catch (error) {
         console.error('Error parsing JSON:', error);
     }
     
 }
-main('ho-chi-minh', 0, 412);
 
-main('ho-chi-minh', 0, 419);
+main('ho-chi-minh', 0, 505, 1);

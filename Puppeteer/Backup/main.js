@@ -2,6 +2,7 @@ import puppeteer from "puppeteer";
 import fs from "fs";
 import * as pathParse from "path";
 import { fileURLToPath } from 'url';
+import HIHI from "./multi.js";
 import { log } from "console";
 async function run(pathUrl, isImg = true) {
     var logger = []
