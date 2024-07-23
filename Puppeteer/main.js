@@ -540,7 +540,7 @@ async function run(pathUrl, isImg = true) {
     console.log('Number cm:', menuL.length, ' ', galleryL.length, ' ', comments_shop.length) 
     return [menuL, galleryL, info, comments_shop, logger]
 }
-async function main(place, numHref = 0, numShop, createFile = 0, isLogger = true, isImg = true) {
+async function main(place, numHref = 0, numShop = 0, createFile = 0, isLogger = true, isImg = true) {
 
     const filePath = `Crawl/Selenium/Place/${place}/second_place/second_place.json`;
     const __filename = fileURLToPath(import.meta.url);
@@ -559,16 +559,16 @@ async function main(place, numHref = 0, numShop, createFile = 0, isLogger = true
         const secondPlace = fs.readFileSync(filePathParse, 'utf8'); 
         const obj = JSON.parse(secondPlace);
         var tt = 0
+        var numberCategory = 0
         if (Array.isArray(obj)) {
             for (const item of obj)  {
             var pathSave = `${commentPath}/comment`
             var loggerSave = `${loggerPath}/logger`
-            var numberCategory = 0
+            if (numberCategory < numHref) {
+                numberCategory ++
+                continue
+            }
             for (var key in item)
-                if (numberCategory < numHref) {
-                    numberCategory ++
-                    continue
-                }
                 var arr = item[key]
                 let cate = key.split('/').pop()
                 console.log('key _ cate', key, ' ', cate)
@@ -655,6 +655,6 @@ async function main(place, numHref = 0, numShop, createFile = 0, isLogger = true
     
 }
 
-main('ho-chi-minh', 0, 823, 2);
+main('ho-chi-minh', 1, 0, 0);
 
 // shopMissing('logger_ho-chi-minh_1.json', 505)
