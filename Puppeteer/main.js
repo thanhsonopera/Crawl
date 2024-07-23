@@ -190,18 +190,44 @@ async function run(pathUrl, isImg = true) {
             logger.push({'Error SHOP INFO': error.toString()});
         }
         try {
-           const [headerI] = await page.$$("::-p-xpath(.//div[@class='micro-header'])").catch(e => {logger.push({ 'Error SHOP INFO HEADER HEADERI': e.toString() })});
-           const [nameShopP] = await headerI.$$("::-p-xpath(.//div[@class='main-info-title']/h1)").catch(e => {logger.push({ 'Error SHOP INFO HEADER NAMESHOPP': e.toString() })});
-           nameShop = await nameShopP.evaluate(el => el.textContent);
-           const [ty1Shop] = await headerI.$$("::-p-xpath(.//div[@class='category']/div[@class='category-items']/a)").catch(e => {logger.push({ 'Error SHOP INFO HEADER TYPE1SHOP': e.toString() })});
-           type1Shop = await ty1Shop.evaluate(el => el.textContent);
-           const [ty2Shop] = await headerI.$$("::-p-xpath(.//a[@class='microsite-cuisine'])").catch(e => {logger.push({ 'Error SHOP INFO HEADER TYPE2SHOP': e.toString() })});
-           type2Shop = await ty2Shop.evaluate(el => el.textContent);
-           const [timeOpen] = await headerI.$$("::-p-xpath(.//div[@class='micro-timesopen']/span[3])").catch(e => {logger.push({ 'Error SHOP INFO HEADER TIMEOPEN': e.toString() })});
-           timeOpenShop = await timeOpen.evaluate(el => el.textContent);
-           const [spn] = await headerI.$$("::-p-xpath(.//div[@class='res-common-minmaxprice'])").catch(e => {logger.push({ 'Error SHOP INFO HEADER SPN': e.toString() })});
-           const [priceShop] = await spn.$$("::-p-xpath(.//span[@itemprop='priceRange'])").catch(e => {logger.push({ 'Error SHOP INFO HEADER PRICESHOP': e.toString() })});
-           priceRangeShop = await priceShop.evaluate(el => el.textContent)
+            const [headerI] = await page.$$("::-p-xpath(.//div[@class='micro-header'])").catch(e => {logger.push({ 'Error SHOP INFO HEADER HEADERI': e.toString() })});
+            const [nameShopP] = await headerI.$$("::-p-xpath(.//div[@class='main-info-title']/h1)").catch(e => {logger.push({ 'Error SHOP INFO HEADER NAMESHOPP': e.toString() })});
+            nameShop = await nameShopP.evaluate(el => el.textContent).catch(e => {logger.push({ 'Error SHOP INFO HEADER NAMESHOP EVAL': e.toString() })});
+            try {
+                const ty1Shop = await headerI.$$("::-p-xpath(.//div[@class='category']/div[@class='category-items']/a)").catch(e => {logger.push({ 'Error SHOP INFO HEADER TYPE1SHOP': e.toString() })});
+                for (const ty1It of ty1Shop) {
+                    let mark  = await ty1It.evaluate(el => el.textContent)
+                    type1Shop += '#' + mark; 
+                }
+            }
+            catch (error) {
+                logger.push({'Error SHOP INFO HEADER TYPE1SHOP': error.toString()});
+            }
+            try {
+                const ty2Shop = await headerI.$$("::-p-xpath(.//a[@class='microsite-cuisine'])").catch(e => {logger.push({ 'Error SHOP INFO HEADER TYPE2SHOP': e.toString() })});
+                for (const ty2It of ty2Shop) {
+                    let mark  = await ty2It.evaluate(el => el.textContent)
+                    type2Shop += '#' + mark; 
+                }
+            }
+            catch (error) {
+                logger.push({'Error SHOP INFO HEADER TYPE2SHOP': error.toString()});
+            }
+            try {
+                const [timeOpen] = await headerI.$$("::-p-xpath(.//div[@class='micro-timesopen']/span[3])").catch(e => {logger.push({ 'Error SHOP INFO HEADER TIMEOPEN': e.toString() })});
+                timeOpenShop = await timeOpen.evaluate(el => el.textContent).catch(e => {logger.push({ 'Error SHOP INFO HEADER TIMEOPEN EVAL': e.toString() })});
+            }
+            catch (error) {
+                logger.push({'Error SHOP INFO HEADER TIMEOPEN': error.toString()});
+            }
+            try {
+                const [spn] = await headerI.$$("::-p-xpath(.//div[@class='res-common-minmaxprice'])").catch(e => {logger.push({ 'Error SHOP INFO HEADER SPN': e.toString() })});
+                const [priceShop] = await spn.$$("::-p-xpath(.//span[@itemprop='priceRange'])").catch(e => {logger.push({ 'Error SHOP INFO HEADER PRICESHOP': e.toString() })});
+                priceRangeShop = await priceShop.evaluate(el => el.textContent).catch(e => {logger.push({ 'Error SHOP INFO HEADER PRICESHOP EVAL': e.toString() })});
+            }
+            catch (error) {
+                logger.push({'Error SHOP INFO HEADER PRICESHOP AVG': error.toString()});
+            }
         }
         catch (error) { 
             logger.push({'Error SHOP INFO HEADER': error.toString()});
@@ -514,7 +540,7 @@ async function run(pathUrl, isImg = true) {
     console.log('Number cm:', menuL.length, ' ', galleryL.length, ' ', comments_shop.length) 
     return [menuL, galleryL, info, comments_shop, logger]
 }
-async function main(place, numHref, numShop, createFile = 0, isLogger = true, isImg = true) {
+async function main(place, numHref = 0, numShop, createFile = 0, isLogger = true, isImg = true) {
 
     const filePath = `Crawl/Selenium/Place/${place}/second_place/second_place.json`;
     const __filename = fileURLToPath(import.meta.url);
@@ -537,7 +563,12 @@ async function main(place, numHref, numShop, createFile = 0, isLogger = true, is
             for (const item of obj)  {
             var pathSave = `${commentPath}/comment`
             var loggerSave = `${loggerPath}/logger`
+            var numberCategory = 0
             for (var key in item)
+                if (numberCategory < numHref) {
+                    numberCategory ++
+                    continue
+                }
                 var arr = item[key]
                 let cate = key.split('/').pop()
                 console.log('key _ cate', key, ' ', cate)
@@ -624,6 +655,6 @@ async function main(place, numHref, numShop, createFile = 0, isLogger = true, is
     
 }
 
-main('ho-chi-minh', 0, 517, 1);
+main('ho-chi-minh', 0, 823, 2);
 
 // shopMissing('logger_ho-chi-minh_1.json', 505)

@@ -36,7 +36,7 @@ def getComment(href, num_comments):
     menuL = []
     galleryL = []
     driver = webdriver.Chrome(
-        executable_path=r'C:\Users\thanh\Desktop\CRAWL\Selenium\chromedriver\chromedriver.exe')
+        executable_path=r'chromedriver\chromedriver.exe')
     # Login
     driver.get(
         "https://id.foody.vn/account/login?returnUrl={}".format('https://www.foody.vn/'))

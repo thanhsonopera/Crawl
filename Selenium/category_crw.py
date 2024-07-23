@@ -24,7 +24,7 @@ for place in tqdm(data_loaded['place']):
         continue
     try:
         driver = webdriver.Chrome(
-            executable_path=r'C:\Users\thanh\Desktop\CRAWL\Selenium\chromedriver\chromedriver.exe')
+            executable_path=r'chromedriver\chromedriver.exe')
 
         driver.get("https://www.foody.vn" + '/' + place)
         time.sleep(5)

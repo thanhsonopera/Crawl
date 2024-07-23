@@ -37,7 +37,7 @@ def save_json(data, type=1):
 os.environ['WDM_SSL_VERIFY'] = '0'
 # https://stackoverflow.com/questions/76614392/getting-error-when-i-run-selenium-script-value-error-timeout-value-connect-was
 driver = webdriver.Chrome(
-    executable_path=r'C:\Users\thanh\Desktop\CRAWL\Selenium\chromedriver\chromedriver.exe')
+    executable_path='chromedriver/chromedriver.exe')
 
 try:
     # Login

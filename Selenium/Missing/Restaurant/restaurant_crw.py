@@ -27,7 +27,7 @@ def getSource(link, type):
         object_list = []
         try:
             driver = webdriver.Chrome(
-                executable_path=r'C:\Users\thanh\Desktop\CRAWL\Selenium\chromedriver\chromedriver.exe')
+                executable_path=r'chromedriver\chromedriver.exe')
             # Login
             driver.get(
                 "https://id.foody.vn/account/login?returnUrl={}".format(link))
