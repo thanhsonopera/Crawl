@@ -589,15 +589,15 @@ async function main(place, numHref = 0, numShop = 0, createFile = 0, isLogger = 
                         loggerSave += `_${createFile}.json`
                     }
                     console.log(pathSave)
-                    var order = 0
+                    let order = 0
                     if (Array.isArray(arr)) {
                         var allComments = []
                         var allLogger = []
                         if (fs.existsSync(pathSave) && fs.existsSync(loggerSave)) {
-                            var data = fs.readFileSync(pathSave, 'utf8');
-                            var comments = JSON.parse(data);
-                            var dataLogger = fs.readFileSync(loggerSave, 'utf8');
-                            var loggerJson = JSON.parse(dataLogger);
+                            let data = fs.readFileSync(pathSave, 'utf8');
+                            let comments = JSON.parse(data);
+                            let dataLogger = fs.readFileSync(loggerSave, 'utf8');
+                            let loggerJson = JSON.parse(dataLogger);
                             allComments = comments
                             allLogger = loggerJson
                             console.log('Have comments:', comments.length)
@@ -605,7 +605,7 @@ async function main(place, numHref = 0, numShop = 0, createFile = 0, isLogger = 
                         }
                         console.log('Number shop', order)
                         for (const childItem of arr) {
-                            if (order < numShop) {
+                            if (order < numShop && numberCategory == numHref) {
                                 order ++ 
                                 continue
                             }
@@ -647,6 +647,7 @@ async function main(place, numHref = 0, numShop = 0, createFile = 0, isLogger = 
                         tt += arr.length
                     }       
                 }
+                numberCategory ++
             }
             console.log('Total shop:', tt)
         }
@@ -656,6 +657,6 @@ async function main(place, numHref = 0, numShop = 0, createFile = 0, isLogger = 
     
 }
 
-main('ho-chi-minh', 0, 839, 2);
+main('ho-chi-minh', 2, 2, 0);
 
-// shopMissing('logger_ho-chi-minh_1.json', 505)
+// shopMissing('logger_ho-chi-minh_travel.json', 0)
