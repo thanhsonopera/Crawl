@@ -657,6 +657,6 @@ async function main(place, numHref = 0, numShop = 0, createFile = 0, isLogger = 
     
 }
 
-main('ho-chi-minh', 0, 1250, 3);
+// main('ho-chi-minh', 0, 1250, 3);
 
-// shopMissing('logger_ho-chi-minh_2.json', 815)
+shopMissing('logger_ha-noi.json', 0)
