@@ -657,6 +657,6 @@ async function main(place, numHref = 0, numShop = 0, createFile = 0, isLogger = 
     
 }
 
-//main('ha-noi', 0, 0, 0);
+main('ca-mau', 0, 0, 0);
 
-shopMissing('logger_ha-noi.json', 0)
+// shopMissing('logger_ho-chi-minh_service.json', 0)
