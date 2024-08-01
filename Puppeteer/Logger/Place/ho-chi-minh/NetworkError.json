@@ -1,1 +1,457 @@
-[{"shop_order":83},{"Error":[{"errorType":"Error SHOP INFO HEADER PRICESHOP AVG","error":"TypeError: Cannot read properties of undefined (reading 'evaluate')"},{"errorType":"Error USER COMMENT","error":"TypeError: Cannot read properties of undefined (reading '$$')"}],"shop_order":83},{"shop_order":100},{"shop_order":165},{"Error":[{"errorType":"Error SHOP INFO HEADER PRICESHOP AVG","error":"TypeError: Cannot read properties of undefined (reading 'evaluate')"},{"errorType":"Error USER COMMENT","error":"TypeError: Cannot read properties of undefined (reading '$$')"}],"shop_order":165}]
+[
+    {
+        "Error": [
+            {
+                "errorType": "Error USER INFO USER COMMENT",
+                "error": "TypeError: Cannot read properties of undefined (reading 'evaluate')"
+            },
+            {
+                "errorType": "Error USER TITLE COMMENT",
+                "error": "TypeError: Cannot read properties of undefined (reading 'evaluate')"
+            },
+            {
+                "errorType": "Error USER INFO USER COMMENT",
+                "error": "TypeError: Cannot read properties of undefined (reading 'evaluate')"
+            },
+            {
+                "errorType": "Error USER TITLE COMMENT",
+                "error": "TypeError: Cannot read properties of undefined (reading 'evaluate')"
+            },
+            {
+                "errorType": "Error USER INFO USER COMMENT",
+                "error": "TypeError: Cannot read properties of undefined (reading 'evaluate')"
+            },
+            {
+                "errorType": "Error USER TITLE COMMENT",
+                "error": "TypeError: Cannot read properties of undefined (reading 'evaluate')"
+            }
+        ],
+        "shop_order": 1274
+    },
+    {
+        "Error": [
+            {
+                "errorType": "Error USER INFO USER COMMENT",
+                "error": "TypeError: Cannot read properties of undefined (reading '$$')"
+            },
+            {
+                "errorType": "Error USER INFO USER COMMENT",
+                "error": "TypeError: Cannot read properties of undefined (reading '$$')"
+            },
+            {
+                "errorType": "Error USER INFO USER COMMENT",
+                "error": "TypeError: Cannot read properties of undefined (reading '$$')"
+            },
+            {
+                "errorType": "Error USER INFO USER COMMENT",
+                "error": "TypeError: Cannot read properties of undefined (reading '$$')"
+            },
+            {
+                "errorType": "Error USER INFO USER COMMENT",
+                "error": "TypeError: Cannot read properties of undefined (reading '$$')"
+            },
+            {
+                "errorType": "Error USER INFO USER COMMENT",
+                "error": "TypeError: Cannot read properties of undefined (reading '$$')"
+            },
+            {
+                "errorType": "Error USER INFO USER COMMENT",
+                "error": "TypeError: Cannot read properties of undefined (reading '$$')"
+            },
+            {
+                "errorType": "Error USER INFO USER COMMENT",
+                "error": "TypeError: Cannot read properties of undefined (reading '$$')"
+            },
+            {
+                "errorType": "Error USER INFO USER COMMENT",
+                "error": "TypeError: Cannot read properties of undefined (reading '$$')"
+            },
+            {
+                "errorType": "Error USER INFO USER COMMENT",
+                "error": "TypeError: Cannot read properties of undefined (reading '$$')"
+            }
+        ],
+        "shop_order": 1304
+    },
+    {
+        "Error": [
+            {
+                "errorType": "Error USER INFO USER COMMENT",
+                "error": "TypeError: Cannot read properties of undefined (reading '$$')"
+            },
+            {
+                "errorType": "Error USER INFO USER COMMENT",
+                "error": "TypeError: Cannot read properties of undefined (reading '$$')"
+            },
+            {
+                "errorType": "Error USER INFO USER COMMENT",
+                "error": "TypeError: Cannot read properties of undefined (reading '$$')"
+            },
+            {
+                "errorType": "Error USER INFO USER COMMENT",
+                "error": "TypeError: Cannot read properties of undefined (reading '$$')"
+            },
+            {
+                "errorType": "Error USER INFO USER COMMENT",
+                "error": "TypeError: Cannot read properties of undefined (reading '$$')"
+            },
+            {
+                "errorType": "Error USER INFO USER COMMENT",
+                "error": "TypeError: Cannot read properties of undefined (reading '$$')"
+            },
+            {
+                "errorType": "Error USER INFO USER COMMENT",
+                "error": "TypeError: Cannot read properties of undefined (reading '$$')"
+            },
+            {
+                "errorType": "Error USER INFO USER COMMENT",
+                "error": "TypeError: Cannot read properties of undefined (reading '$$')"
+            },
+            {
+                "errorType": "Error USER INFO USER COMMENT",
+                "error": "TypeError: Cannot read properties of undefined (reading '$$')"
+            },
+            {
+                "errorType": "Error USER INFO USER COMMENT",
+                "error": "TypeError: Cannot read properties of undefined (reading '$$')"
+            }
+        ],
+        "shop_order": 1341
+    },
+    {
+        "Error": [
+            {
+                "errorType": "Error USER INFO USER COMMENT",
+                "error": "TypeError: Cannot read properties of undefined (reading '$$')"
+            },
+            {
+                "errorType": "Error USER INFO USER COMMENT",
+                "error": "TypeError: Cannot read properties of undefined (reading '$$')"
+            },
+            {
+                "errorType": "Error USER INFO USER COMMENT",
+                "error": "TypeError: Cannot read properties of undefined (reading '$$')"
+            },
+            {
+                "errorType": "Error USER INFO USER COMMENT",
+                "error": "TypeError: Cannot read properties of undefined (reading '$$')"
+            }
+        ],
+        "shop_order": 1380
+    },
+    {
+        "shop_order": 1497
+    },
+    {
+        "Error": [
+            {
+                "errorType": "Error USER INFO USER COMMENT",
+                "error": "TypeError: Cannot read properties of undefined (reading 'evaluate')"
+            },
+            {
+                "errorType": "Error USER TITLE COMMENT",
+                "error": "TypeError: Cannot read properties of undefined (reading 'evaluate')"
+            },
+            {
+                "errorType": "Error USER INFO USER COMMENT",
+                "error": "TypeError: Cannot read properties of undefined (reading 'evaluate')"
+            },
+            {
+                "errorType": "Error USER TITLE COMMENT",
+                "error": "TypeError: Cannot read properties of undefined (reading 'evaluate')"
+            }
+        ],
+        "shop_order": 1521
+    },
+    {
+        "Error": [
+            {
+                "errorType": "Error USER INFO USER COMMENT",
+                "error": "TypeError: Cannot read properties of undefined (reading 'evaluate')"
+            },
+            {
+                "errorType": "Error USER TITLE COMMENT",
+                "error": "TypeError: Cannot read properties of undefined (reading 'evaluate')"
+            },
+            {
+                "errorType": "Error USER INFO USER COMMENT",
+                "error": "TypeError: Cannot read properties of undefined (reading 'evaluate')"
+            },
+            {
+                "errorType": "Error USER TITLE COMMENT",
+                "error": "TypeError: Cannot read properties of undefined (reading 'evaluate')"
+            }
+        ],
+        "shop_order": 1609
+    },
+    {
+        "Error": [
+            {
+                "errorType": "Error USER INFO USER COMMENT",
+                "error": "TypeError: Cannot read properties of undefined (reading '$$')"
+            },
+            {
+                "errorType": "Error USER INFO USER COMMENT",
+                "error": "TypeError: Cannot read properties of undefined (reading '$$')"
+            },
+            {
+                "errorType": "Error USER INFO USER COMMENT",
+                "error": "TypeError: Cannot read properties of undefined (reading '$$')"
+            },
+            {
+                "errorType": "Error USER INFO USER COMMENT",
+                "error": "TypeError: Cannot read properties of undefined (reading '$$')"
+            },
+            {
+                "errorType": "Error USER INFO USER COMMENT",
+                "error": "TypeError: Cannot read properties of undefined (reading '$$')"
+            },
+            {
+                "errorType": "Error USER INFO USER COMMENT",
+                "error": "TypeError: Cannot read properties of undefined (reading '$$')"
+            },
+            {
+                "errorType": "Error USER INFO USER COMMENT",
+                "error": "TypeError: Cannot read properties of undefined (reading '$$')"
+            },
+            {
+                "errorType": "Error USER INFO USER COMMENT",
+                "error": "TypeError: Cannot read properties of undefined (reading '$$')"
+            },
+            {
+                "errorType": "Error USER INFO USER COMMENT",
+                "error": "TypeError: Cannot read properties of undefined (reading '$$')"
+            },
+            {
+                "errorType": "Error USER INFO USER COMMENT",
+                "error": "TypeError: Cannot read properties of undefined (reading '$$')"
+            }
+        ],
+        "shop_order": 1631
+    },
+    {
+        "Error": [
+            {
+                "errorType": "Error USER INFO USER COMMENT",
+                "error": "TypeError: Cannot read properties of undefined (reading '$$')"
+            },
+            {
+                "errorType": "Error USER INFO USER COMMENT",
+                "error": "TypeError: Cannot read properties of undefined (reading '$$')"
+            },
+            {
+                "errorType": "Error USER INFO USER COMMENT",
+                "error": "TypeError: Cannot read properties of undefined (reading '$$')"
+            },
+            {
+                "errorType": "Error USER INFO USER COMMENT",
+                "error": "TypeError: Cannot read properties of undefined (reading '$$')"
+            },
+            {
+                "errorType": "Error USER INFO USER COMMENT",
+                "error": "TypeError: Cannot read properties of undefined (reading '$$')"
+            },
+            {
+                "errorType": "Error USER INFO USER COMMENT",
+                "error": "TypeError: Cannot read properties of undefined (reading '$$')"
+            },
+            {
+                "errorType": "Error USER INFO USER COMMENT",
+                "error": "TypeError: Cannot read properties of undefined (reading '$$')"
+            },
+            {
+                "errorType": "Error USER INFO USER COMMENT",
+                "error": "TypeError: Cannot read properties of undefined (reading '$$')"
+            },
+            {
+                "errorType": "Error USER INFO USER COMMENT",
+                "error": "TypeError: Cannot read properties of undefined (reading '$$')"
+            },
+            {
+                "errorType": "Error USER INFO USER COMMENT",
+                "error": "TypeError: Cannot read properties of undefined (reading '$$')"
+            }
+        ],
+        "shop_order": 1694
+    },
+    {
+        "Error": [
+            {
+                "errorType": "Error USER INFO USER COMMENT",
+                "error": "TypeError: Cannot read properties of undefined (reading '$$')"
+            },
+            {
+                "errorType": "Error USER INFO USER COMMENT",
+                "error": "TypeError: Cannot read properties of undefined (reading '$$')"
+            },
+            {
+                "errorType": "Error USER INFO USER COMMENT",
+                "error": "TypeError: Cannot read properties of undefined (reading '$$')"
+            },
+            {
+                "errorType": "Error USER INFO USER COMMENT",
+                "error": "TypeError: Cannot read properties of undefined (reading '$$')"
+            },
+            {
+                "errorType": "Error USER INFO USER COMMENT",
+                "error": "TypeError: Cannot read properties of undefined (reading '$$')"
+            },
+            {
+                "errorType": "Error USER INFO USER COMMENT",
+                "error": "TypeError: Cannot read properties of undefined (reading '$$')"
+            },
+            {
+                "errorType": "Error USER INFO USER COMMENT",
+                "error": "TypeError: Cannot read properties of undefined (reading '$$')"
+            },
+            {
+                "errorType": "Error USER INFO USER COMMENT",
+                "error": "TypeError: Cannot read properties of undefined (reading '$$')"
+            },
+            {
+                "errorType": "Error USER INFO USER COMMENT",
+                "error": "TypeError: Cannot read properties of undefined (reading '$$')"
+            },
+            {
+                "errorType": "Error USER INFO USER COMMENT",
+                "error": "TypeError: Cannot read properties of undefined (reading '$$')"
+            }
+        ],
+        "shop_order": 1774
+    },
+    {
+        "Error": [
+            {
+                "errorType": "Error USER INFO USER COMMENT",
+                "error": "TypeError: Cannot read properties of undefined (reading 'evaluate')"
+            },
+            {
+                "errorType": "Error USER TITLE COMMENT",
+                "error": "TypeError: Cannot read properties of undefined (reading 'evaluate')"
+            }
+        ],
+        "shop_order": 1807
+    },
+    {
+        "Error": [
+            {
+                "errorType": "Error USER INFO USER COMMENT",
+                "error": "TypeError: Cannot read properties of undefined (reading '$$')"
+            },
+            {
+                "errorType": "Error USER INFO USER COMMENT",
+                "error": "TypeError: Cannot read properties of undefined (reading '$$')"
+            },
+            {
+                "errorType": "Error USER INFO USER COMMENT",
+                "error": "TypeError: Cannot read properties of undefined (reading '$$')"
+            },
+            {
+                "errorType": "Error USER INFO USER COMMENT",
+                "error": "TypeError: Cannot read properties of undefined (reading '$$')"
+            },
+            {
+                "errorType": "Error USER INFO USER COMMENT",
+                "error": "TypeError: Cannot read properties of undefined (reading '$$')"
+            },
+            {
+                "errorType": "Error USER INFO USER COMMENT",
+                "error": "TypeError: Cannot read properties of undefined (reading '$$')"
+            },
+            {
+                "errorType": "Error USER INFO USER COMMENT",
+                "error": "TypeError: Cannot read properties of undefined (reading '$$')"
+            },
+            {
+                "errorType": "Error USER INFO USER COMMENT",
+                "error": "TypeError: Cannot read properties of undefined (reading '$$')"
+            },
+            {
+                "errorType": "Error USER INFO USER COMMENT",
+                "error": "TypeError: Cannot read properties of undefined (reading '$$')"
+            },
+            {
+                "errorType": "Error USER INFO USER COMMENT",
+                "error": "TypeError: Cannot read properties of undefined (reading '$$')"
+            }
+        ],
+        "shop_order": 1829
+    },
+    {
+        "shop_order": 1839
+    },
+    {
+        "shop_order": 1843
+    },
+    {
+        "Error": [
+            {
+                "errorType": "Error USER INFO USER COMMENT",
+                "error": "TypeError: Cannot read properties of undefined (reading '$$')"
+            },
+            {
+                "errorType": "Error USER INFO USER COMMENT",
+                "error": "TypeError: Cannot read properties of undefined (reading '$$')"
+            },
+            {
+                "errorType": "Error USER INFO USER COMMENT",
+                "error": "TypeError: Cannot read properties of undefined (reading '$$')"
+            },
+            {
+                "errorType": "Error USER INFO USER COMMENT",
+                "error": "TypeError: Cannot read properties of undefined (reading '$$')"
+            },
+            {
+                "errorType": "Error USER INFO USER COMMENT",
+                "error": "TypeError: Cannot read properties of undefined (reading '$$')"
+            },
+            {
+                "errorType": "Error USER INFO USER COMMENT",
+                "error": "TypeError: Cannot read properties of undefined (reading '$$')"
+            },
+            {
+                "errorType": "Error USER INFO USER COMMENT",
+                "error": "TypeError: Cannot read properties of undefined (reading '$$')"
+            },
+            {
+                "errorType": "Error USER INFO USER COMMENT",
+                "error": "TypeError: Cannot read properties of undefined (reading '$$')"
+            },
+            {
+                "errorType": "Error USER INFO USER COMMENT",
+                "error": "TypeError: Cannot read properties of undefined (reading '$$')"
+            },
+            {
+                "errorType": "Error USER INFO USER COMMENT",
+                "error": "TypeError: Cannot read properties of undefined (reading '$$')"
+            }
+        ],
+        "shop_order": 1867
+    },
+    {
+        "Error": [
+            {
+                "errorType": "Error USER INFO USER COMMENT",
+                "error": "TypeError: Cannot read properties of undefined (reading 'evaluate')"
+            },
+            {
+                "errorType": "Error USER TITLE COMMENT",
+                "error": "TypeError: Cannot read properties of undefined (reading 'evaluate')"
+            }
+        ],
+        "shop_order": 1962
+    },
+    {
+        "Error": [
+            {
+                "errorType": "Error USER INFO USER COMMENT",
+                "error": "TypeError: Cannot read properties of undefined (reading 'evaluate')"
+            },
+            {
+                "errorType": "Error USER TITLE COMMENT",
+                "error": "TypeError: Cannot read properties of undefined (reading 'evaluate')"
+            }
+        ],
+        "shop_order": 1991
+    }
+]
