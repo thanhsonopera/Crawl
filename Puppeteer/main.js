@@ -292,8 +292,9 @@ async function run(pathUrl, isImg = true) {
             var j = 0
             for (const reviewItem of reviewListL2) {
                 cm += 1
+                
                 await reviewItem.scrollIntoView({ behavior: 'smooth', block: 'bottom'});
-                await page.evaluate(() => { window.scrollBy(0, -130); });
+                await page.evaluate(() => { window.scrollBy(0, -190); });
                 await new Promise(function(resolve) {
                     setTimeout(resolve, 2000); 
                 });
@@ -657,6 +658,12 @@ async function main(place, numHref = 0, numShop = 0, createFile = 0, isLogger = 
     
 }
 
+<<<<<<< HEAD
 main('lam-dong', 0, 0, 0);
 
 //shopMissing('logger_ha-noi.json', 0)
+=======
+main('hai-phong', 0, 321, 0);
+
+// shopMissing('logger_ho-chi-minh_3.json', 1250)
+>>>>>>> 770e396591b81ca72cf62c459027b80caeddb817
