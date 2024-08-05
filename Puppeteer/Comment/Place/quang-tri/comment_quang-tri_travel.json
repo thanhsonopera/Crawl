@@ -1,0 +1,140 @@
+[
+  {
+    "https://www.foody.vn/quang-tri/nha-nghi-long-giang": [
+      {
+        "user_href": "https://www.foody.vn/thanh-vien/foodee_71fc62ce",
+        "user_avatar": "https://down-vn.img.susercontent.com/vn-11134259-7r98o-lwwm6nf2a47v6b@resize_w40",
+        "user_name": "foodee_71fc62ce",
+        "user_timec": "12/4/2023 16:26",
+        "user_rating": "5.0",
+        "user_titlec": "Nhà Nghỉ Long Giang",
+        "user_comment": "giá cả ở cả ngày sao á ?",
+        "user_tbscore": [],
+        "user_options": [],
+        "user_hashtag": [],
+        "user_video": "",
+        "user_imgReview": [],
+        "user_CmtOfCmt": {
+          "nameUserLikeText": "",
+          "allCmtInPost": [],
+          "numberCmtOfPost": 0
+        }
+      }
+    ],
+    "info": {
+      "isShare": "\n                    1 bình luận đã chia sẻ\n                ",
+      "exellent": "\n                            0",
+      "good": "\n                        0",
+      "average": "\n                        1",
+      "bad": "\n                        0",
+      "table_score": [
+        {
+          "\n                                    Vị trí\n                                ": "5.0"
+        },
+        {
+          "\n                                    Giá cả\n                                ": "5.0"
+        },
+        {
+          "\n                                    Chất lượng\n                                ": "5.0"
+        },
+        {
+          "\n                                    Phục vụ\n                                ": "5.0"
+        },
+        {
+          "\n                                    Không gian\n                                ": "5.0"
+        }
+      ],
+      "eval": " Trung bình\n                    ",
+      "point_overall": "\n                                5.0\n                            ",
+      "name_shop": "Nhà Nghỉ Long Giang",
+      "type_1_shop": "#Nhà nghỉ",
+      "type_2_shop": "#\n                                                            Món Việt\n                                                        ",
+      "time_open_shop": " 06:00 - 23:59",
+      "price_avg_shop": "\n                                                150.000đ - 350.000đ\n\n                                    "
+    },
+    "menu": [],
+    "gallery": [],
+    "shop_order": 1
+  },
+  {
+    "https://www.foody.vn/quang-tri/nha-nghi-thanh-ha": [
+      {
+        "user_href": "https://www.foody.vn/thanh-vien/phamphuong1001409807",
+        "user_avatar": "https://down-vn.img.susercontent.com/vn-11134259-7r98o-lwwm6nf2a47v6b@resize_w40",
+        "user_name": "Pham Phuong",
+        "user_timec": "16/5/2021 10:04",
+        "user_rating": "7.0",
+        "user_titlec": "Tuyệt",
+        "user_comment": "Nhà nghỉ mình còn phòng có e út không chị có gì chị liên hệ em 0762502028",
+        "user_tbscore": [
+          {
+            "\n                        Vị trí\n                    ": "\n                        10\n                    "
+          },
+          {
+            "\n                        Giá cả\n                    ": "\n                        10\n                    "
+          },
+          {
+            "\n                        Chất lượng\n                    ": "\n                        5\n                    "
+          },
+          {
+            "\n                        Phục vụ\n                    ": "\n                        5\n                    "
+          },
+          {
+            "\n                        Không gian\n                    ": "\n                        5\n                    "
+          }
+        ],
+        "user_options": [],
+        "user_hashtag": [],
+        "user_video": "",
+        "user_imgReview": [],
+        "user_CmtOfCmt": {
+          "nameUserLikeText": "foodee_467ced94",
+          "allCmtInPost": [
+            {
+              "userCmtAvatarRef": "https://down-vn.img.susercontent.com/vn-11134259-7r98o-lwwm6nf2a47v6b@resize_w40",
+              "userCmtRef": "https://www.foody.vn/thanh-vien/foodee_4a362a6d",
+              "userCmtName": "foodee_4a362a6d",
+              "userCmtText": "Cho hỏi khách san có em út gi ko có gi ntn qua sdt 0366781646",
+              "userDateText": "19/04/2022 22:57:51"
+            }
+          ],
+          "numberCmtOfPost": 1
+        }
+      }
+    ],
+    "info": {
+      "isShare": "\n                    1 bình luận đã chia sẻ\n                ",
+      "exellent": "\n                            0",
+      "good": "\n                        1",
+      "average": "\n                        0",
+      "bad": "\n                        0",
+      "table_score": [
+        {
+          "\n                                    Vị trí\n                                ": "10.0"
+        },
+        {
+          "\n                                    Giá cả\n                                ": "10.0"
+        },
+        {
+          "\n                                    Chất lượng\n                                ": "5.0"
+        },
+        {
+          "\n                                    Phục vụ\n                                ": "5.0"
+        },
+        {
+          "\n                                    Không gian\n                                ": "5.0"
+        }
+      ],
+      "eval": " Khá tốt\n                    ",
+      "point_overall": "\n                                7.0\n                            ",
+      "name_shop": "Nhà Nghỉ Thanh Hà",
+      "type_1_shop": "#Nhà nghỉ",
+      "type_2_shop": "",
+      "time_open_shop": " Cả ngày",
+      "price_avg_shop": "\n                                                150.000đ - 300.000đ\n\n                                    "
+    },
+    "menu": [],
+    "gallery": [],
+    "shop_order": 2
+  }
+]
