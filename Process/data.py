@@ -5,6 +5,7 @@ import tqdm
 import json
 import copy
 from datetime import datetime
+import csv
 
 
 def default_serializer(obj):
@@ -16,6 +17,19 @@ def default_serializer(obj):
 class Data:
     def __init__(self):
         self.path_folder = '../Puppeteer/Comment/Place'
+        self.path_folder_new = 'Repreprocess/Place'
+        self.dict_shop_1 = {}
+        self.dict_shop_2 = {}
+        with open('type_shop_1.json', 'r') as f:
+            data = json.load(f)
+            for item in data:
+                self.dict_shop_1[item[0]] = item[1]
+        with open('type_shop_2.json', 'r') as f:
+            data = json.load(f)
+            for item in data:
+                self.dict_shop_2[item[0]] = item[1]
+        print('Type Shop 1 : ', self.dict_shop_1)
+        print('Type Shop 2 : ', self.dict_shop_2)
 
     def reportCheck(self):
         number_place = 0
@@ -100,6 +114,177 @@ class Data:
             json.dump(report, f, ensure_ascii=False,
                       indent=4)
 
+    def exportCsv(self):
+        files = glob.glob(self.path_folder_new + '/*/*.json')
+
+        for file in tqdm.tqdm(files):
+            file = file.replace("\\", "/")
+
+            path = file.split('/')
+            csv_path = path[0] + '/' + 'CSV' + '/' + path[2] + '/' + path[3]
+            csv_path = csv_path.replace('.json', '.csv')
+            if not os.path.exists(os.path.dirname(csv_path)):
+                os.makedirs(os.path.dirname(csv_path))
+
+            place = path[2]
+
+            fl = path[3][:-5]
+            category = fl.split('_')
+            if (len(category[-1]) > 1):
+                category = category[-1]
+            else:
+                category = category[-2]
+            if (category == place):
+                category = 'all'
+
+            # place | category
+
+            with open(file, 'r') as f:
+                data = json.load(f)
+                csv_list = self.exportCsvL1(data, place, category)
+                with open(csv_path, 'w', encoding='utf-8', newline='') as f:
+                    writer = csv.writer(f)
+                    writer.writerows(csv_list)
+
+    def exportCsvL1(self, data, place, category):
+        # print(place, category)
+        number_comment = 0
+        shop_csv = []
+        columns = ['user_href', 'user_timec', 'user_titlec', 'user_comment', 'place', 'price', 'quality',
+                   'service', 'ambience', 'user_options', 'num_cmt_post', 'city', 'category', 'type_1_shop', 'type_2_shop']
+        shop_csv.append(columns)
+        # In 1 shop
+        for shop in data:
+            token_shop_1 = ''
+            token_shop_2 = ''
+            for i, key in enumerate(shop.keys()):
+                if (i == 1):
+                    for ki in shop[key].keys():
+
+                        if (ki == 'type_1_shop'):
+                            dt = self.extractFrom(shop[key][ki])
+                            for d in dt:
+                                d = d.strip()
+                                d = d.capitalize()
+                                if (d != ''):
+                                    token_shop_1 += str(
+                                        self.dict_shop_1[d]) + '/'
+                        if (ki == 'type_2_shop'):
+                            dt = self.extractFrom(shop[key][ki])
+                            for d in dt:
+                                d = d.strip()
+                                d = d.capitalize()
+                                if (d != ''):
+                                    token_shop_2 += str(
+                                        self.dict_shop_2[d]) + '/'
+                    break
+            # print('Token 1', token_shop_1, 'Token 2', token_shop_2)
+            for i, key in enumerate(shop.keys()):
+                if (i == 0):
+                    number_comment += len(shop[key])
+                    for it in shop[key]:
+                        # In 1 comment
+                        incomment = []
+                        have_option = ''
+                        num_r = 0
+                        for numCat, ki in enumerate(it.keys()):
+                            num_r = numCat
+                            if (ki == 'user_href'):
+                                incomment.append(it[ki].split('/')[-1])
+                            if (ki == 'user_timec'):
+                                incomment.append(it[ki])
+                            if (ki == 'user_titlec' or ki == 'user_comment'):
+                                incomment.append(it[ki])
+
+                            if (ki == 'user_tbscore'):
+                                for item in it[ki]:
+                                    for type in item.keys():
+                                        incomment.append(item[type])
+
+                            if (ki == 'user_options'):
+                                for j, ii in enumerate(it[ki]):
+                                    for k in ii.keys():
+                                        if (k == 'Sẽ quay lại:'):
+                                            kii = re.sub(
+                                                r'[!]', '', ii[k]).strip()
+                                            if ('Có' in kii):
+                                                kii = 'Có thể'
+                                            if ('Sure' in kii):
+                                                kii = 'Chắc chắn'
+                                            have_option = kii
+                                            break
+                                have_option = have_option if have_option != '' else 'None'
+                                incomment.append(have_option)
+
+                            if (ki == 'user_CmtOfCmt'):
+                                for k in it[ki].keys():
+                                    if (k == 'numberCmtOfPost'):
+                                        incomment.append(it[ki][k])
+                                    if (k == 'nameUserLikeText'):
+                                        pass
+                        if (num_r < 8):
+                            incomment.append('None')
+                            incomment.append(0)
+
+                        incomment.append(place)
+                        incomment.append(category)
+                        incomment.append(token_shop_1)
+                        incomment.append(token_shop_2)
+                        # print(incomment, len(incomment))
+                        if (len(incomment) == 15):
+                            shop_csv.append(incomment)
+
+                break
+        if (number_comment != len(shop_csv) - 1):
+            print(place, category)
+
+        return shop_csv
+
+    def exportDict(self):
+        files = glob.glob(self.path_folder_new + '/*/*.json')
+        all_set_shop1 = set()
+        all_set_shop2 = set()
+        for file in tqdm.tqdm(files):
+            file = file.replace("\\", "/")
+
+            with open(file, 'r') as f:
+                data = json.load(f)
+                set1, set2 = self.extractDict(data)
+                all_set_shop1.update(set1)
+                all_set_shop2.update(set2)
+
+        all_list_shop1 = list(all_set_shop1)
+        del all_set_shop1
+        all_set_shop1 = set()
+        if (all_list_shop1[0] == ''):
+            all_list_shop1.pop(0)
+        for i, item in enumerate(all_list_shop1):
+            all_set_shop1.add((item, i))
+
+        del all_list_shop1
+        all_list_shop1 = list(all_set_shop1)
+
+        with open('type_shop_1.json', 'w', encoding='utf-8') as f:
+            json.dump(all_list_shop1, f, ensure_ascii=False,
+                      indent=4)
+        del all_list_shop1
+
+        all_list_shop2 = list(all_set_shop2)
+        del all_set_shop2
+        all_set_shop2 = set()
+        if (all_list_shop2[0] == ''):
+            all_list_shop2.pop(0)
+        for i, item in enumerate(all_list_shop2):
+            all_set_shop2.add((item, i))
+
+        del all_list_shop2
+        all_list_shop2 = list(all_set_shop2)
+
+        with open('type_shop_2.json', 'w', encoding='utf-8') as f:
+            json.dump(all_list_shop2, f, ensure_ascii=False,
+                      indent=4)
+        del all_list_shop2
+
     def extractL1(self, data, file):
         paths = file.split('/')
         new_paths = 'Repreprocess/'
@@ -170,7 +355,7 @@ class Data:
             # print('{}'.format(key), new)
         return shopValid, shop_more_100_cm, num_comment, new_shop, static_shop
 
-    @staticmethod
+    @ staticmethod
     def stringPassInt(str):
         number_pattern = r'(\d+)'
         result = re.findall(number_pattern, str)
@@ -379,7 +564,7 @@ class Data:
                       'failPoint': point_nan}
         return static, new_info
 
-    @staticmethod
+    @ staticmethod
     def extractMenu(menu):
         new_menu = []
         num_price = 0
@@ -424,7 +609,7 @@ class Data:
         }
         return static, new_menu
 
-    @staticmethod
+    @ staticmethod
     def extractGallery(gallery):
         new_gallery = []
         num_gallery = 0
@@ -464,3 +649,32 @@ class Data:
             'name': num_name
         }
         return static, new_gallery
+
+    def extractDict(self, data):
+        type_shop1_dict = set()
+        type_shop2_dict = set()
+        for item in data:
+            for key in item.keys():
+                if (key == 'info'):
+                    for ki in item[key].keys():
+                        if (ki == 'type_1_shop'):
+                            dt = self.extractFrom(item[key][ki])
+                            for d in dt:
+                                d = d.strip()
+                                d = d.capitalize()
+                                type_shop1_dict.add(d)
+                        if (ki == 'type_2_shop'):
+                            dt = self.extractFrom(item[key][ki])
+                            for d in dt:
+                                d = d.strip()
+                                d = d.capitalize()
+                                type_shop2_dict.add(d)
+        return type_shop1_dict, type_shop2_dict
+
+    @ staticmethod
+    def extractFrom(data):
+        dt = data.replace('&', ',')
+        dt = dt.replace('/', ',')
+        dt = dt.replace('-', ',')
+        dt = dt.split(',')
+        return dt

@@ -1,0 +1,374 @@
+[
+    [
+        "Trang điểm",
+        65
+    ],
+    [
+        "Nhà nghỉ",
+        86
+    ],
+    [
+        "Làm tóc",
+        31
+    ],
+    [
+        "Spa",
+        4
+    ],
+    [
+        "Buffet",
+        18
+    ],
+    [
+        "Siêu thị",
+        22
+    ],
+    [
+        "Vỉa hè",
+        46
+    ],
+    [
+        "Áo cưới",
+        92
+    ],
+    [
+        "Billiards",
+        71
+    ],
+    [
+        "Pub",
+        38
+    ],
+    [
+        "Bệnh viện",
+        49
+    ],
+    [
+        "Du lịch sinh thái",
+        26
+    ],
+    [
+        "Đại học",
+        58
+    ],
+    [
+        "Vật nuôi",
+        15
+    ],
+    [
+        "Dessert",
+        2
+    ],
+    [
+        "Dịch vụ vận chuyển đồ đạc",
+        70
+    ],
+    [
+        "Chùa",
+        10
+    ],
+    [
+        "Ăn vặt",
+        45
+    ],
+    [
+        "Phương tiện",
+        91
+    ],
+    [
+        "Sang trọng",
+        77
+    ],
+    [
+        "Tiệc cưới",
+        50
+    ],
+    [
+        "Di tích",
+        27
+    ],
+    [
+        "Nhà thờ",
+        68
+    ],
+    [
+        "Phòng khám",
+        25
+    ],
+    [
+        "Nhà trẻ",
+        62
+    ],
+    [
+        "Dịch vụ sửa chữa nhà cửa",
+        39
+    ],
+    [
+        "Quán ăn",
+        21
+    ],
+    [
+        "Trường dạy nghề",
+        87
+    ],
+    [
+        "Phòng vé máy bay",
+        61
+    ],
+    [
+        "Homestay",
+        82
+    ],
+    [
+        "Rạp chiếu phim",
+        9
+    ],
+    [
+        "Mẫu giáo",
+        73
+    ],
+    [
+        "Tiệc tận nơi",
+        35
+    ],
+    [
+        "Hãng du lịch",
+        76
+    ],
+    [
+        "Nối mi",
+        34
+    ],
+    [
+        "Khu chơi game",
+        16
+    ],
+    [
+        "Trụ sở ban ngành",
+        43
+    ],
+    [
+        "Shop hóa mỹ phẩm",
+        12
+    ],
+    [
+        "Giao cơm văn phòng",
+        60
+    ],
+    [
+        "Ăn chay",
+        36
+    ],
+    [
+        "Shop",
+        78
+    ],
+    [
+        "Mua sắm online",
+        84
+    ],
+    [
+        "Trung tâm giáo dục",
+        47
+    ],
+    [
+        "Khách sạn",
+        13
+    ],
+    [
+        "Khu nghỉ dưỡng",
+        1
+    ],
+    [
+        "Thăm quan",
+        23
+    ],
+    [
+        "Chăm sóc da",
+        89
+    ],
+    [
+        "Nha khoa",
+        8
+    ],
+    [
+        "Nhà hàng",
+        53
+    ],
+    [
+        "Phổ thông",
+        37
+    ],
+    [
+        "Chụp hình cưới",
+        55
+    ],
+    [
+        "Nhà thuốc",
+        5
+    ],
+    [
+        "Vận tải",
+        80
+    ],
+    [
+        "Phụ kiện",
+        30
+    ],
+    [
+        "Hoa cưới",
+        83
+    ],
+    [
+        "Căn hộ",
+        74
+    ],
+    [
+        "Thư viện",
+        32
+    ],
+    [
+        "Chụp ảnh",
+        51
+    ],
+    [
+        "Shop online",
+        56
+    ],
+    [
+        "Cao đẳng",
+        88
+    ],
+    [
+        "Viễn thông",
+        48
+    ],
+    [
+        "Trạm xăng",
+        28
+    ],
+    [
+        "Thẩm mỹ viện",
+        72
+    ],
+    [
+        "Gội đầu",
+        14
+    ],
+    [
+        "Công viên vui chơi",
+        57
+    ],
+    [
+        "Trung tâm ngoại ngữ",
+        33
+    ],
+    [
+        "Thể dục thể thao",
+        19
+    ],
+    [
+        "Thể dục thẩm mỹ",
+        69
+    ],
+    [
+        "Tàu du lịch",
+        41
+    ],
+    [
+        "Giặt ủi",
+        0
+    ],
+    [
+        "Hội nghị",
+        54
+    ],
+    [
+        "Xăm hình",
+        3
+    ],
+    [
+        "Bank",
+        81
+    ],
+    [
+        "Atm",
+        6
+    ],
+    [
+        "Trung tâm thương mại",
+        29
+    ],
+    [
+        "Shop hoa",
+        44
+    ],
+    [
+        "Sân khấu",
+        11
+    ],
+    [
+        "Tiệm bánh",
+        64
+    ],
+    [
+        "Xe cộ",
+        20
+    ],
+    [
+        "Karaoke",
+        40
+    ],
+    [
+        "Beer club",
+        59
+    ],
+    [
+        "Khu ẩm thực",
+        63
+    ],
+    [
+        "Dịch vụ vệ sinh",
+        79
+    ],
+    [
+        "Quán nhậu",
+        90
+    ],
+    [
+        "Nhà sách",
+        24
+    ],
+    [
+        "Massage",
+        52
+    ],
+    [
+        "Café",
+        75
+    ],
+    [
+        "Bảo tàng",
+        85
+    ],
+    [
+        "Bar",
+        66
+    ],
+    [
+        "Cửa hàng",
+        7
+    ],
+    [
+        "Tiệm nail",
+        67
+    ],
+    [
+        "Chợ",
+        17
+    ],
+    [
+        "Trung học",
+        42
+    ]
+]
