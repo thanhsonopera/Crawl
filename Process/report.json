@@ -1,0 +1,275 @@
+[
+    {
+        "ca-mau": [
+            {
+                "all_comment": 694
+            },
+            {
+                "all_shop": 203
+            },
+            {
+                "all_shop_more_100_cm": 1
+            }
+        ]
+    },
+    {
+        "cao-bang": [
+            {
+                "all_comment": 289
+            },
+            {
+                "all_shop": 52
+            },
+            {
+                "all_shop_more_100_cm": 2
+            }
+        ]
+    },
+    {
+        "chiangmai": [
+            {
+                "all_comment": 5
+            },
+            {
+                "all_shop": 5
+            },
+            {
+                "all_shop_more_100_cm": 0
+            }
+        ]
+    },
+    {
+        "dong-nai": [
+            {
+                "all_comment": 5914
+            },
+            {
+                "all_shop": 690
+            },
+            {
+                "all_shop_more_100_cm": 6
+            }
+        ]
+    },
+    {
+        "Gyeongqi-Do": [
+            {
+                "all_comment": 1
+            },
+            {
+                "all_shop": 1
+            },
+            {
+                "all_shop_more_100_cm": 0
+            }
+        ]
+    },
+    {
+        "ha-noi": [
+            {
+                "all_comment": 1108
+            },
+            {
+                "all_shop": 26
+            },
+            {
+                "all_shop_more_100_cm": 6
+            }
+        ]
+    },
+    {
+        "hai-duong": [
+            {
+                "all_comment": 567
+            },
+            {
+                "all_shop": 68
+            },
+            {
+                "all_shop_more_100_cm": 1
+            }
+        ]
+    },
+    {
+        "hai-phong": [
+            {
+                "all_comment": 13978
+            },
+            {
+                "all_shop": 927
+            },
+            {
+                "all_shop_more_100_cm": 37
+            }
+        ]
+    },
+    {
+        "ho-chi-minh": [
+            {
+                "all_comment": 76149
+            },
+            {
+                "all_shop": 5933
+            },
+            {
+                "all_shop_more_100_cm": 288
+            }
+        ]
+    },
+    {
+        "hue": [
+            {
+                "all_comment": 18283
+            },
+            {
+                "all_shop": 2033
+            },
+            {
+                "all_shop_more_100_cm": 31
+            }
+        ]
+    },
+    {
+        "hung-yen": [
+            {
+                "all_comment": 210
+            },
+            {
+                "all_shop": 112
+            },
+            {
+                "all_shop_more_100_cm": 0
+            }
+        ]
+    },
+    {
+        "khanh-hoa": [
+            {
+                "all_comment": 19338
+            },
+            {
+                "all_shop": 2271
+            },
+            {
+                "all_shop_more_100_cm": 53
+            }
+        ]
+    },
+    {
+        "lai-chau": [
+            {
+                "all_comment": 13
+            },
+            {
+                "all_shop": 5
+            },
+            {
+                "all_shop_more_100_cm": 0
+            }
+        ]
+    },
+    {
+        "nam-dinh": [
+            {
+                "all_comment": 1480
+            },
+            {
+                "all_shop": 323
+            },
+            {
+                "all_shop_more_100_cm": 1
+            }
+        ]
+    },
+    {
+        "phu-quoc": [
+            {
+                "all_comment": 7894
+            },
+            {
+                "all_shop": 618
+            },
+            {
+                "all_shop_more_100_cm": 28
+            }
+        ]
+    },
+    {
+        "quang-nam": [
+            {
+                "all_comment": 5105
+            },
+            {
+                "all_shop": 987
+            },
+            {
+                "all_shop_more_100_cm": 8
+            }
+        ]
+    },
+    {
+        "quang-ninh": [
+            {
+                "all_comment": 5886
+            },
+            {
+                "all_shop": 1288
+            },
+            {
+                "all_shop_more_100_cm": 6
+            }
+        ]
+    },
+    {
+        "quang-tri": [
+            {
+                "all_comment": 664
+            },
+            {
+                "all_shop": 263
+            },
+            {
+                "all_shop_more_100_cm": 0
+            }
+        ]
+    },
+    {
+        "Selangor": [
+            {
+                "all_comment": 5
+            },
+            {
+                "all_shop": 5
+            },
+            {
+                "all_shop_more_100_cm": 0
+            }
+        ]
+    },
+    {
+        "taoyuan-city": [
+            {
+                "all_comment": 3
+            },
+            {
+                "all_shop": 3
+            },
+            {
+                "all_shop_more_100_cm": 0
+            }
+        ]
+    },
+    {
+        "tuyen-quang": [
+            {
+                "all_comment": 53
+            },
+            {
+                "all_shop": 34
+            },
+            {
+                "all_shop_more_100_cm": 0
+            }
+        ]
+    }
+]

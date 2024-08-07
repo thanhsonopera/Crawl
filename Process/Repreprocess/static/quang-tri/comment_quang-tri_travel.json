@@ -1,0 +1,329 @@
+[
+    {
+        "https://www.foody.vn/quang-tri/nha-nghi-thanh-ha": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 1
+    },
+    {
+        "https://www.foody.vn/quang-tri/trung-tam-thanh-mau-la-vang": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 1,
+            "typeOption": {
+                "Chắc chắn": 1
+            },
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 2
+    },
+    {
+        "https://www.foody.vn/quang-tri/xe-khach-quang-dung-quang-tri": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 3
+    },
+    {
+        "https://www.foody.vn/quang-tri/nha-nghi-pho-moi": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 4
+    },
+    {
+        "https://www.foody.vn/quang-tri/thanh-co-quang-tri": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 5
+    },
+    {
+        "https://www.foody.vn/quang-tri/mui-treo": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 1
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 6
+    },
+    {
+        "https://www.foody.vn/quang-tri/khu-du-lich-sinh-thai-tram-tra-loc": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 2,
+            "name": 0
+        },
+        "shop_order": 7
+    },
+    {
+        "https://www.foody.vn/quang-tri/nha-nghi-hoa-sen": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 8
+    },
+    {
+        "https://www.foody.vn/quang-tri/huu-nghi-hotel": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 4,
+            "name": 0
+        },
+        "shop_order": 9
+    },
+    {
+        "https://www.foody.vn/quang-tri/di-tich-lich-su-san-bay-ta-con": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 10
+    },
+    {
+        "https://www.foody.vn/quang-tri/khu-di-tich-tong-bi-thu-le-duan": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 11
+    },
+    {
+        "https://www.foody.vn/quang-tri/golden-hotel": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 12
+    },
+    {
+        "https://www.foody.vn/quang-tri/dong-truong-son-hotel": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 13
+    }
+]

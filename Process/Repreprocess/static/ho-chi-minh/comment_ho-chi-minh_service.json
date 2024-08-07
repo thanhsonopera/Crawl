@@ -1,0 +1,3970 @@
+[
+    {
+        "https://www.foody.vn/ho-chi-minh/dem-acoustic-coffee-nguyen-kiem": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 4,
+            "name": 0
+        },
+        "shop_order": 1
+    },
+    {
+        "https://foody.vn/ho-chi-minh/%20H%E1%BB%87%20Th%E1%BB%91ng%20Gi%E1%BA%B7t%20S%E1%BA%A5y%20Laundry%20House%20-%20C%E1%BB%91ng%20Qu%E1%BB%B3nh": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 2,
+            "typeOption": {
+                "Chắc chắn": 2
+            },
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 4,
+            "name": 0
+        },
+        "shop_order": 2
+    },
+    {
+        "https://foody.vn/ho-chi-minh/emma-giat-hap-tay-ui": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 1,
+            "typeOption": {
+                "Chắc chắn": 1
+            },
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 4,
+            "name": 0
+        },
+        "shop_order": 3
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/xe-khach-duy-quy": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 2,
+            "typeOption": {
+                "Không": 1,
+                "Chắc chắn": 1
+            },
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 4
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/hnam-mobile": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 5
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/kim-hoang-giat-ui-quan-1-saigon-laundry-service-in-district-1": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": true,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 6
+    },
+    {
+        "https://foody.vn/ho-chi-minh/giat-say-mr-laundry": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 1,
+            "typeOption": {
+                "Chắc chắn": 1
+            },
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 4,
+            "name": 0
+        },
+        "shop_order": 7
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/ga-sai-gon-nguyen-thong": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 3,
+            "typeOption": {
+                "Có thể": 1,
+                "Chắc chắn": 2
+            },
+            "num_hashtag": 2
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 8
+    },
+    {
+        "https://foody.vn/ho-chi-minh/b10-coffee": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 3,
+            "typeOption": {
+                "Chắc chắn": 3
+            },
+            "num_hashtag": 13
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 4,
+            "name": 0
+        },
+        "shop_order": 9
+    },
+    {
+        "https://foody.vn/ho-chi-minh/%20H%E1%BB%87%20Th%E1%BB%91ng%20Gi%E1%BA%B7t%20S%E1%BA%A5y%20Laundry%20House%20-%20Tr%E1%BA%A7n%20V%C4%83n%20Quang": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 1,
+            "typeOption": {
+                "Chắc chắn": 1
+            },
+            "num_hashtag": 1
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 10
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/cay-xang-comeco-so-7-truong-chinh": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 5
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 11
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/giat-say-3-sieu": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 3,
+            "typeOption": {
+                "Chắc chắn": 3
+            },
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 12
+    },
+    {
+        "https://foody.vn/ho-chi-minh/giat-say-xanh-nguyen-trai": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 4,
+            "name": 0
+        },
+        "shop_order": 13
+    },
+    {
+        "https://foody.vn/ho-chi-minh/the-sneaker-spa-dr-thong": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 3,
+            "typeOption": {
+                "Chắc chắn": 2,
+                "Không": 1
+            },
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 4,
+            "name": 0
+        },
+        "shop_order": 14
+    },
+    {
+        "https://foody.vn/ho-chi-minh/hamster-abeken-thuc-an-thu-cung": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 10,
+            "src": 10,
+            "name": 10,
+            "price": 10
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 15
+    },
+    {
+        "https://foody.vn/ho-chi-minh/dich-vu-giat-ui-cali": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 4,
+            "name": 0
+        },
+        "shop_order": 16
+    },
+    {
+        "https://foody.vn/ho-chi-minh/express-laundry-giat-say-nhanh-d2": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 4,
+            "name": 0
+        },
+        "shop_order": 17
+    },
+    {
+        "https://foody.vn/ho-chi-minh/giat-say-bien-xanh-tan-son-hoa": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 4,
+            "name": 0
+        },
+        "shop_order": 18
+    },
+    {
+        "https://foody.vn/ho-chi-minh/giat-say-dai-cat": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 2,
+            "typeOption": {
+                "Chắc chắn": 1,
+                "Không": 1
+            },
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 4,
+            "name": 0
+        },
+        "shop_order": 19
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/giat-say-quan-2": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 1,
+            "typeOption": {
+                "Chắc chắn": 1
+            },
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 20
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/quang-cao-an-phat": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 21
+    },
+    {
+        "https://foody.vn/ho-chi-minh/he-thong-giat-say-laundry-house-hoa-cau": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 22
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/fpt-shop-quoc-lo-1k": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 23
+    },
+    {
+        "https://foody.vn/ho-chi-minh/pate-sunny-pate-tuoi-lam-van-ben": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 6
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 10,
+            "src": 10,
+            "name": 10,
+            "price": 10
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 24
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/korea-mart": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 1,
+            "typeOption": {
+                "Chắc chắn": 1
+            },
+            "num_hashtag": 9
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 4,
+            "name": 0
+        },
+        "shop_order": 25
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/giat-say-dr-clean": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 2,
+            "typeOption": {
+                "Chắc chắn": 2
+            },
+            "num_hashtag": 1
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 26
+    },
+    {
+        "https://foody.vn/ho-chi-minh/cosmo-laundry-dry-cleaning-ton-dat-tien": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 27
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/cay-xang-comeco-so-11-dinh-bo-linh": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 28
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/giat-ui-mr-bong-bong": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 3,
+            "typeOption": {
+                "Chắc chắn": 3
+            },
+            "num_hashtag": 42
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 29
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/rua-xe-tapika": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 10,
+            "typeOption": {
+                "Chắc chắn": 9,
+                "Có thể": 1
+            },
+            "num_hashtag": 13
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 30
+    },
+    {
+        "https://foody.vn/ho-chi-minh/he-thong-giat-say-ewash-tran-quang-dieu": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 1,
+            "typeOption": {
+                "Chắc chắn": 1
+            },
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 4,
+            "name": 0
+        },
+        "shop_order": 31
+    },
+    {
+        "https://foody.vn/ho-chi-minh/pet-mart-sieu-thi-cho-meo-khanh-hoi": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 1
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 32
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/cellphone-huynh-tan-phat": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 33
+    },
+    {
+        "https://foody.vn/ho-chi-minh/con-cung-cmt8-126": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 4,
+            "name": 0
+        },
+        "shop_order": 34
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/happy-pets-phong-kham-thu-y": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 6
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 35
+    },
+    {
+        "https://foody.vn/ho-chi-minh/he-thong-giat-say-laundry-house-285-176-cach-mang-thang-8": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 2,
+            "name": 0
+        },
+        "shop_order": 36
+    },
+    {
+        "https://foody.vn/ho-chi-minh/pet-mart-sieu-thi-cho-meo-3-2": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 4,
+            "typeOption": {
+                "Chắc chắn": 4
+            },
+            "num_hashtag": 2
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 4,
+            "name": 0
+        },
+        "shop_order": 37
+    },
+    {
+        "https://foody.vn/ho-chi-minh/giat-say-bien-xanh-nguyen-van-cong": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 1,
+            "typeOption": {
+                "Chắc chắn": 1
+            },
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 4,
+            "name": 0
+        },
+        "shop_order": 38
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/bach-long-mobile": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 39
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/robot-tower": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 40
+    },
+    {
+        "https://foody.vn/ho-chi-minh/giat-say-xanh-vinh-vien": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 41
+    },
+    {
+        "https://foody.vn/ho-chi-minh/cua-hang-giat-say-phuong": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 1,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 4,
+            "name": 0
+        },
+        "shop_order": 42
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/cellphone-le-hong-phong": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 43
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/giat-say-tina": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 1,
+            "typeOption": {
+                "Chắc chắn": 1
+            },
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 44
+    },
+    {
+        "https://foody.vn/ho-chi-minh/chuyen-giat-say-vo-oanh": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 4,
+            "name": 0
+        },
+        "shop_order": 45
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/giat-say-dai-duong": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 1,
+            "typeOption": {
+                "Chắc chắn": 1
+            },
+            "num_hashtag": 2
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 46
+    },
+    {
+        "https://foody.vn/ho-chi-minh/giat-say-tien-loi-life": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 1,
+            "typeOption": {},
+            "num_hashtag": 1
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 4,
+            "name": 1
+        },
+        "shop_order": 47
+    },
+    {
+        "https://foody.vn/ho-chi-minh/giat-say-932": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 1,
+            "typeOption": {
+                "Chắc chắn": 1
+            },
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 4,
+            "name": 0
+        },
+        "shop_order": 48
+    },
+    {
+        "https://foody.vn/ho-chi-minh/giat-say-happy-happy-laundry": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 3,
+            "typeOption": {
+                "Chắc chắn": 3
+            },
+            "num_hashtag": 4
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 4,
+            "name": 0
+        },
+        "shop_order": 49
+    },
+    {
+        "https://foody.vn/ho-chi-minh/king-wash-cham-soc-va-bao-duong-giay": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 6,
+            "typeOption": {
+                "Chắc chắn": 4,
+                "Không": 2
+            },
+            "num_hashtag": 1
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 4,
+            "name": 0
+        },
+        "shop_order": 50
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/the-gioi-di-dong-phan-dang-luu": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 51
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/the-gioi-di-dong-cong-hoa": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 3,
+            "typeOption": {
+                "Chắc chắn": 2
+            },
+            "num_hashtag": 1
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 1,
+            "name": 0
+        },
+        "shop_order": 52
+    },
+    {
+        "https://foody.vn/ho-chi-minh/giat-say-sun-house": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 1,
+            "typeOption": {
+                "Chắc chắn": 1
+            },
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 4,
+            "name": 0
+        },
+        "shop_order": 53
+    },
+    {
+        "https://foody.vn/ho-chi-minh/nori-s-house-he-thong-giat-say-than-thien": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 4,
+            "name": 0
+        },
+        "shop_order": 54
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/neko-coffee-shop": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 4,
+            "typeOption": {
+                "Không": 2,
+                "Chắc chắn": 2
+            },
+            "num_hashtag": 1
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 4,
+            "name": 1
+        },
+        "shop_order": 55
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/trung-hanh-phong-mach-thu-y": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 7,
+            "typeOption": {
+                "Không": 5,
+                "Chắc chắn": 2
+            },
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 2,
+            "name": 0
+        },
+        "shop_order": 56
+    },
+    {
+        "https://foody.vn/ho-chi-minh/giat-say-tho-trang-phan-xich-long": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 4,
+            "name": 0
+        },
+        "shop_order": 57
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/cay-xang-petrolimex-so-2-tran-nao": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 1,
+            "typeOption": {
+                "Không": 1
+            },
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 58
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/techcombank-cao-thang": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 59
+    },
+    {
+        "https://foody.vn/ho-chi-minh/pet-mart-sieu-thi-cho-meo-nguyen-trai": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 1
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 60
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/pha-binh-khanh": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 2,
+            "typeOption": {
+                "Có thể": 1,
+                "Chắc chắn": 1
+            },
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 2,
+            "name": 0
+        },
+        "shop_order": 61
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/buu-dien-thanh-da": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 62
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/giat-say-dung": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 63
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/phong-kham-thu-y-nguyen-van-lac": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 1,
+            "typeOption": {
+                "Chắc chắn": 1
+            },
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 64
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/cay-xang-tai-loc-1-ha-huy-giap": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 65
+    },
+    {
+        "https://foody.vn/ho-chi-minh/goodlife-laundry": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 66
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/cay-xang-binh-tho-dang-van-bi": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 67
+    },
+    {
+        "https://foody.vn/ho-chi-minh/laundry-funny-tiem-giat-ui-vui-ve-pham-ngu-lao": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 2,
+            "typeOption": {
+                "Có thể": 1
+            },
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 4,
+            "name": 0
+        },
+        "shop_order": 68
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/bed-and-pet-first-dog-hotel": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 2,
+            "typeOption": {
+                "Chắc chắn": 2
+            },
+            "num_hashtag": 3
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 2,
+            "name": 0
+        },
+        "shop_order": 69
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/techcombank-vo-van-tan": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 70
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/kim-hoang-giat-ui-say-kho": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 71
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/benh-vien-thu-y-pet-care-3": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 72
+    },
+    {
+        "https://foody.vn/ho-chi-minh/wash-go-giat-say-lay-ngay-phan-van-han": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 1,
+            "typeOption": {
+                "Chắc chắn": 1
+            },
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 4,
+            "name": 0
+        },
+        "shop_order": 73
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/thuyen-hoi-van-bom-hoi-van-cheo-dung": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 5
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 74
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/phong-kham-thu-y-cho-lon": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 75
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/dien-may-xanh-nha-be": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 3,
+            "typeOption": {
+                "Chắc chắn": 3
+            },
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 4,
+            "name": 1
+        },
+        "shop_order": 76
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/giat-ui-24h": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 77
+    },
+    {
+        "https://foody.vn/ho-chi-minh/speed-wash-laundry": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 1,
+            "typeOption": {
+                "Chắc chắn": 1
+            },
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 78
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/tram-thu-y-binh-thanh": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 1,
+            "typeOption": {
+                "Có thể": 1
+            },
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 79
+    },
+    {
+        "https://foody.vn/ho-chi-minh/giat-say-tu-dong-alolaha": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 2
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 4,
+            "name": 0
+        },
+        "shop_order": 80
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/vina-fast-dich-vu-chuyen-nha-tron-goi": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 81
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/dien-may-xanh-hau-giang": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 1,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 82
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/techcombank-quoc-lo-13": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 1,
+            "typeOption": {
+                "Có thể": 1
+            },
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 83
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/the-gioi-di-dong-1787-huynh-tan-phat": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 1,
+            "typeOption": {
+                "Chắc chắn": 1
+            },
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 2,
+            "name": 0
+        },
+        "shop_order": 84
+    },
+    {
+        "https://foody.vn/ho-chi-minh/tama-neko-coin-laundry": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 1
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 4,
+            "name": 0
+        },
+        "shop_order": 85
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/nguyenloimoving-dich-vu-chuyen-nha-van-phong": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 3,
+            "typeOption": {
+                "Chắc chắn": 3
+            },
+            "num_hashtag": 2
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 4,
+            "name": 0
+        },
+        "shop_order": 86
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/the-gioi-di-dong": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 87
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/the-gioi-di-dong-lac-long-quan": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 1,
+            "typeOption": {
+                "Chắc chắn": 1
+            },
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 88
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/the-gioi-di-dong-au-co": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 1,
+            "typeOption": {
+                "Chắc chắn": 1
+            },
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 89
+    },
+    {
+        "https://foody.vn/ho-chi-minh/joy-house-laundry": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 4,
+            "name": 0
+        },
+        "shop_order": 90
+    },
+    {
+        "https://foody.vn/ho-chi-minh/resneakervn-dich-vu-cham-soc-giay-chuyen-nghiep": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 4,
+            "name": 0
+        },
+        "shop_order": 91
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/acb-atm-nguyen-son": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 1
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 3,
+            "name": 0
+        },
+        "shop_order": 92
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/potato-clothing-ao-thun-dong-phuc": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 1,
+            "typeOption": {
+                "Không": 1
+            },
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 93
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/giat-ui-ngoc-duc-huynh-van-banh": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 94
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/hoang-vu-limousine": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 95
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/cay-xang-petrolimex-xo-viet-nghe-tinh": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 1,
+            "typeOption": {
+                "Không": 1
+            },
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 96
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/giat-say-xa-phong-chi-nhanh-2": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 1,
+            "typeOption": {
+                "Chắc chắn": 1
+            },
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 97
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/co-va-cu-gift-home-decor": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 1,
+            "typeOption": {
+                "Chắc chắn": 1
+            },
+            "num_hashtag": 6
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 98
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/vietcombank-pgd-le-hong-phong": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 99
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/benh-vien-thu-y-pet-care-2": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 100
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/vietnamobile-hai-ba-trung": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 1,
+            "typeOption": {
+                "Chắc chắn": 1
+            },
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 101
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/the-gioi-di-dong-98-hau-giang": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 1,
+            "typeOption": {
+                "Chắc chắn": 1
+            },
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 102
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/vietcombank-bui-thi-xuan": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 103
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/vietcombank-chi-nhanh-quan-5": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 2,
+            "typeOption": {
+                "Chắc chắn": 2
+            },
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 104
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/buu-dien-an-nhon": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 1,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 105
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/spa-gung-gia-grooming-for-pets": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 1,
+            "typeOption": {
+                "Chắc chắn": 1
+            },
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 106
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/giat-ui-24-7-pham-van-dong": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 107
+    },
+    {
+        "https://foody.vn/ho-chi-minh/greenleaf-laundry": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 4,
+            "name": 0
+        },
+        "shop_order": 108
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/sai-gon-moving-dich-vu-chuyen-nha": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 109
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/dong-a-bank-pgd-ham-nghi": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 110
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/cay-xang-petrolimex-so-11-ly-thuong-kiet": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 1,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 111
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/dich-vu-giat-sofa-wow-clear": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 112
+    },
+    {
+        "https://foody.vn/ho-chi-minh/giat-nem-ve-sinh-sofa-hari-nguyen": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 1,
+            "typeOption": {
+                "Chắc chắn": 1
+            },
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 4,
+            "name": 0
+        },
+        "shop_order": 113
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/giat-ui-tuong-vy": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 114
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/sua-xe-toan": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 1,
+            "typeOption": {
+                "Không": 1
+            },
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 115
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/rua-xe-nam-long-go-vap": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 1,
+            "typeOption": {},
+            "num_hashtag": 9
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 116
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/giat-ui-fd-cafe": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 117
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/rio-laundro-giat-say-tu-dong": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 2,
+            "typeOption": {
+                "Chắc chắn": 2
+            },
+            "num_hashtag": 16
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 118
+    },
+    {
+        "https://foody.vn/ho-chi-minh/toan-tam-dich-vu-giat-ui-ve-sinh": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 4,
+            "name": 0
+        },
+        "shop_order": 119
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/dry-cleaning-everyday-new-shirts": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 1,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 120
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/rua-xe-35-van-kiep": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 121
+    },
+    {
+        "https://foody.vn/ho-chi-minh/tiem-giat-say-binh-dan-391": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 1,
+            "name": 0
+        },
+        "shop_order": 122
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/vietcombank-3-thang-2": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 123
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/sacombank-46a-vo-van-ngan": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 124
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/vietinbank-atm-duong-d2": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 1,
+            "typeOption": {
+                "Không": 1
+            },
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 125
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/giat-ui-nguyen-tan": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 1,
+            "typeOption": {
+                "Chắc chắn": 1
+            },
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 126
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/vietwash-chuoi-rua-xe-thong-minh-cua-hang-so-52": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 1,
+            "typeOption": {
+                "Không": 1
+            },
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 127
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/vietcombank-pgd-quan-2": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 128
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/vietcombank-ham-nghi": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 129
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/giat-ui-sinh-vien": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 3,
+            "typeOption": {
+                "Chắc chắn": 3
+            },
+            "num_hashtag": 1
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 130
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/the-gioi-di-dong-minh-phung": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 1,
+            "typeOption": {
+                "Chắc chắn": 1
+            },
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 1,
+            "name": 0
+        },
+        "shop_order": 131
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/the-gioi-di-dong-ton-dan": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 1,
+            "typeOption": {
+                "Chắc chắn": 1
+            },
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 1,
+            "name": 0
+        },
+        "shop_order": 132
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/dong-a-bank-atm-hoang-van-thu": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 133
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/giat-ui-ngoc-anh": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 1,
+            "typeOption": {
+                "Có thể": 1
+            },
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 134
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/cay-xang-petrolimex-so-14-tran-quy": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 135
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/vietcombank-atm-150-nguyen-luong-bang": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 136
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/hoang-vu-phong-cong-ty-dich-vu-ve-sinh-cong-nghiep": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 1,
+            "typeOption": {
+                "Chắc chắn": 1
+            },
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 137
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/vietcombank-pgd-nha-rong": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 1,
+            "typeOption": {
+                "Có thể": 1
+            },
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 138
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/giat-say-tu-dong-house": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 1,
+            "typeOption": {
+                "Chắc chắn": 1
+            },
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 139
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/dong-a-bank-pgd-nha-be": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 2,
+            "typeOption": {
+                "Chắc chắn": 2
+            },
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 140
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/the-gioi-di-dong-455-tan-ky-tan-quy": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 141
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/cay-xang-hoa-binh-quoc-lo-13": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 1,
+            "typeOption": {
+                "Không": 1
+            },
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 142
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/techcombank-bui-thi-xuan": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 1,
+            "typeOption": {
+                "Chắc chắn": 1
+            },
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 143
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/thai-duong-limousine-dich-vu-lu-hanh": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 144
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/sacombank-do-xuan-hop": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 145
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/techcombank-atm-nguyen-tat-thanh": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 1,
+            "typeOption": {
+                "Chắc chắn": 1
+            },
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 146
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/techcombank-pham-phu-thu": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 1,
+            "typeOption": {
+                "Chắc chắn": 1
+            },
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 147
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/vietcombank-nguyen-hue": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 1,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 148
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/vietinbank-atm-tran-hung-dao": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 149
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/protection-vietnam-dich-vu-cham-soc-xe": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 150
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/eximbank-atm-vo-van-tan": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 151
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/fpt-shop-phan-dang-luu": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 152
+    },
+    {
+        "https://www.foody.vn/ho-chi-minh/vietcombank-hai-ba-trung": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 1,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 153
+    }
+]

@@ -1,0 +1,417 @@
+[
+    {
+        "https://www.foody.vn/hue/thien-huong-shop-dac-san-cung-dinh": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 1,
+            "typeOption": {
+                "Không": 1
+            },
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 4,
+            "name": 0
+        },
+        "shop_order": 1
+    },
+    {
+        "https://foody.vn/hue/moka-kafe-nguyen-hue": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 2
+    },
+    {
+        "https://www.foody.vn/hue/cho-xep-thuan-loc": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 1,
+            "typeOption": {
+                "Chắc chắn": 1
+            },
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 4,
+            "name": 1
+        },
+        "shop_order": 3
+    },
+    {
+        "https://foody.vn/hue/3b-san-pham-sach-an-toan-cho-moi-nha": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 1,
+            "typeOption": {
+                "Không": 1
+            },
+            "num_hashtag": 1
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 10,
+            "src": 10,
+            "name": 10,
+            "price": 10
+        },
+        "gallery": {
+            "img": 4,
+            "name": 0
+        },
+        "shop_order": 4
+    },
+    {
+        "https://www.foody.vn/hue/me-xung-nam-thuan": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 1,
+            "typeOption": {
+                "Không": 1
+            },
+            "num_hashtag": 2
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 4,
+            "name": 0
+        },
+        "shop_order": 5
+    },
+    {
+        "https://www.foody.vn/hue/k-mart-sieu-thi-han-quoc": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 2,
+            "typeOption": {
+                "Không": 1,
+                "Có thể": 1
+            },
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 4,
+            "name": 1
+        },
+        "shop_order": 6
+    },
+    {
+        "https://www.foody.vn/hue/nem-cha-tre-dong-ba": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 2,
+            "name": 0
+        },
+        "shop_order": 7
+    },
+    {
+        "https://www.foody.vn/hue/nem-cha-tre-hao-hao-ba-vinh-dao-duy-tu": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 8
+    },
+    {
+        "https://foody.vn/hue/quay-trai-cay-nha-kelvin": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 1,
+            "typeOption": {
+                "Chắc chắn": 1
+            },
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 5,
+            "name": 5
+        },
+        "shop_order": 9
+    },
+    {
+        "https://foody.vn/hue/yen-sao-co-do-hue": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 6,
+            "src": 6,
+            "name": 6,
+            "price": 6
+        },
+        "gallery": {
+            "img": 4,
+            "name": 2
+        },
+        "shop_order": 10
+    },
+    {
+        "https://www.foody.vn/hue/mam-co-ri-tang-bat-ho": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 11
+    },
+    {
+        "https://www.foody.vn/hue/me-xung-nam-anh": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 1,
+            "typeOption": {
+                "Chắc chắn": 1
+            },
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 1,
+            "name": 1
+        },
+        "shop_order": 12
+    },
+    {
+        "https://www.foody.vn/hue/zifood-hue-thuc-pham-dong-lanh": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 4,
+            "name": 0
+        },
+        "shop_order": 13
+    },
+    {
+        "https://www.foody.vn/hue/co-so-tra-cung-dinh-thanh-huong": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 1,
+            "name": 0
+        },
+        "shop_order": 14
+    },
+    {
+        "https://www.foody.vn/hue/color-2hand-quan-ao-phu-kien": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 15
+    },
+    {
+        "https://www.foody.vn/hue/cho-dong-ba": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 4,
+            "name": 0
+        },
+        "shop_order": 16
+    }
+]

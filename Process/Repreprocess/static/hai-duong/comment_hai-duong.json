@@ -1,0 +1,1346 @@
+[
+    {
+        "https://www.foody.vn/hai-duong/lau-nai-phong-oanh": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 1,
+            "name": 1
+        },
+        "shop_order": 1
+    },
+    {
+        "https://www.foody.vn/hai-duong/noo-tea": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 4,
+            "name": 0
+        },
+        "shop_order": 2
+    },
+    {
+        "https://www.foody.vn/hai-duong/bun-ca-ro": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 2,
+            "typeOption": {
+                "Chắc chắn": 2
+            },
+            "num_hashtag": 3
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 4,
+            "name": 0
+        },
+        "shop_order": 3
+    },
+    {
+        "https://www.foody.vn/hai-duong/smile-coffee-nguyen-trac-luan": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 4,
+            "name": 0
+        },
+        "shop_order": 4
+    },
+    {
+        "https://www.foody.vn/hai-duong/buzzdrink-pham-ngu-lao": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 3,
+            "typeOption": {
+                "Chắc chắn": 3
+            },
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 11,
+            "name": 11
+        },
+        "shop_order": 5
+    },
+    {
+        "https://www.foody.vn/hai-duong/kfc-big-c-hai-duong": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 4,
+            "name": 1
+        },
+        "shop_order": 6
+    },
+    {
+        "https://www.foody.vn/hai-duong/banh-mi-thit-nuong": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 2,
+            "name": 0
+        },
+        "shop_order": 7
+    },
+    {
+        "https://www.foody.vn/hai-duong/banh-mi-thit-xien": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 1,
+            "typeOption": {
+                "Có thể": 1
+            },
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 1,
+            "name": 0
+        },
+        "shop_order": 8
+    },
+    {
+        "https://www.foody.vn/hai-duong/manh-luc-cua-hang-banh-mi": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 4,
+            "name": 0
+        },
+        "shop_order": 9
+    },
+    {
+        "https://www.foody.vn/hai-duong/kui-quan-do-an-ngon-cho-ngoi-dep-gia-via-he": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 4,
+            "name": 0
+        },
+        "shop_order": 10
+    },
+    {
+        "https://www.foody.vn/hai-duong/mob-cafe": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 2,
+            "typeOption": {
+                "Chắc chắn": 2
+            },
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 4,
+            "name": 4
+        },
+        "shop_order": 11
+    },
+    {
+        "https://www.foody.vn/hai-duong/xien-nuong-xuan-hung": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 1,
+            "typeOption": {
+                "Chắc chắn": 1
+            },
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 4,
+            "name": 0
+        },
+        "shop_order": 12
+    },
+    {
+        "https://www.foody.vn/hai-duong/tiet-la-ngai": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 13
+    },
+    {
+        "https://www.foody.vn/hai-duong/glory-kafe-cafe-bakery": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 1,
+            "typeOption": {
+                "Có thể": 1
+            },
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 4,
+            "name": 0
+        },
+        "shop_order": 14
+    },
+    {
+        "https://www.foody.vn/hai-duong/tien-map-com-tam-sai-gon": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 4,
+            "name": 0
+        },
+        "shop_order": 15
+    },
+    {
+        "https://www.foody.vn/hai-duong/co-ba-com-tam": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 1,
+            "typeOption": {
+                "Không": 1
+            },
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 4,
+            "name": 0
+        },
+        "shop_order": 16
+    },
+    {
+        "https://www.foody.vn/hai-duong/phuong-phuong-com-do-an-nhanh-online": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 4,
+            "name": 1
+        },
+        "shop_order": 17
+    },
+    {
+        "https://www.foody.vn/hai-duong/ba-nga-banh-cuon-nhan-thit": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 4,
+            "name": 0
+        },
+        "shop_order": 18
+    },
+    {
+        "https://www.foody.vn/hai-duong/gogi-house-nuong-han-quoc-nguyen-luong-bang": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 1,
+            "num_comment_option": 4,
+            "typeOption": {
+                "Chắc chắn": 2
+            },
+            "num_hashtag": 1
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 4,
+            "name": 3
+        },
+        "shop_order": 19
+    },
+    {
+        "https://www.foody.vn/hai-duong/taiwan-good-tea-big-c-hai-duong": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 3,
+            "name": 0
+        },
+        "shop_order": 20
+    },
+    {
+        "https://www.foody.vn/hai-duong/3h-chicken-pizza-ga-ran": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 4,
+            "name": 0
+        },
+        "shop_order": 21
+    },
+    {
+        "https://www.foody.vn/hai-duong/sao-bien": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 1,
+            "typeOption": {
+                "Chắc chắn": 1
+            },
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 1,
+            "name": 0
+        },
+        "shop_order": 22
+    },
+    {
+        "https://www.foody.vn/hai-duong/com-ga-hai-nam-tue-tinh-keo-dai": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 23
+    },
+    {
+        "https://www.foody.vn/hai-duong/banh-mi-ngo": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 3,
+            "name": 1
+        },
+        "shop_order": 24
+    },
+    {
+        "https://www.foody.vn/hai-duong/hoang-hai-dac-san-da-nang": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 3,
+            "typeOption": {
+                "Không": 1,
+                "Có thể": 2
+            },
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 4,
+            "name": 1
+        },
+        "shop_order": 25
+    },
+    {
+        "https://www.foody.vn/hai-duong/tuan-mai-tiem-banh": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 3,
+            "name": 0
+        },
+        "shop_order": 26
+    },
+    {
+        "https://www.foody.vn/hai-duong/khong-gian-am-thuc-doc-la": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 4,
+            "name": 4
+        },
+        "shop_order": 27
+    },
+    {
+        "https://www.foody.vn/hai-duong/busan-mi-cay-7-cap-do": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 1,
+            "typeOption": {
+                "Có thể": 1
+            },
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 4,
+            "name": 1
+        },
+        "shop_order": 28
+    },
+    {
+        "https://www.foody.vn/hai-duong/pepperonis-pizza": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 4,
+            "name": 0
+        },
+        "shop_order": 29
+    },
+    {
+        "https://www.foody.vn/hai-duong/com-ga-hoi-an": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 2,
+            "typeOption": {
+                "Chắc chắn": 2
+            },
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 4,
+            "name": 0
+        },
+        "shop_order": 30
+    },
+    {
+        "https://www.foody.vn/hai-duong/ba-thau-quan-banh-cuon": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 1,
+            "typeOption": {
+                "Chắc chắn": 1
+            },
+            "num_hashtag": 1
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 4,
+            "name": 0
+        },
+        "shop_order": 31
+    },
+    {
+        "https://www.foody.vn/hai-duong/korea-fastfood": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 3,
+            "typeOption": {
+                "Không": 2
+            },
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 4,
+            "name": 0
+        },
+        "shop_order": 32
+    },
+    {
+        "https://www.foody.vn/hai-duong/lau-1-nguoi-pham-ngu-lao": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 1,
+            "typeOption": {
+                "Có thể": 1
+            },
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 4,
+            "name": 1
+        },
+        "shop_order": 33
+    },
+    {
+        "https://www.foody.vn/hai-duong/quan-an-dem-pho-chao-mien-ga": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 1,
+            "typeOption": {
+                "Chắc chắn": 1
+            },
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 4,
+            "name": 2
+        },
+        "shop_order": 34
+    },
+    {
+        "https://www.foody.vn/hai-duong/phuc-beo-lau-nuong": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 2,
+            "name": 0
+        },
+        "shop_order": 35
+    },
+    {
+        "https://www.foody.vn/hai-duong/bun-cha-bun-ca-ro-dong": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 2,
+            "name": 0
+        },
+        "shop_order": 36
+    },
+    {
+        "https://www.foody.vn/hai-duong/banh-mi-keu-tue-tinh": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 1,
+            "typeOption": {
+                "Chắc chắn": 1
+            },
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 37
+    },
+    {
+        "https://www.foody.vn/hai-duong/banh-mi-pho-co": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 2,
+            "name": 0
+        },
+        "shop_order": 38
+    },
+    {
+        "https://www.foody.vn/hai-duong/88-bbq-nuong-lau-khong-khoi-tue-tinh": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 39
+    },
+    {
+        "https://www.foody.vn/hai-duong/tu-ga-chan-ga-rang-muoi": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 1
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 4,
+            "name": 0
+        },
+        "shop_order": 40
+    },
+    {
+        "https://www.foody.vn/hai-duong/ruby-bbq": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 4,
+            "name": 0
+        },
+        "shop_order": 41
+    },
+    {
+        "https://www.foody.vn/hai-duong/gin-s-thai-food-hot-pot": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 3,
+            "typeOption": {
+                "Chắc chắn": 2
+            },
+            "num_hashtag": 1
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 4,
+            "name": 0
+        },
+        "shop_order": 42
+    },
+    {
+        "https://www.foody.vn/hai-duong/banh-mi-gia-mien": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 1,
+            "typeOption": {
+                "Có thể": 1
+            },
+            "num_hashtag": 3
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 4,
+            "name": 0
+        },
+        "shop_order": 43
+    },
+    {
+        "https://www.foody.vn/hai-duong/huy-nam-lau-nuong": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 9
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 44
+    },
+    {
+        "https://www.foody.vn/hai-duong/nem-nuong-nha-trang": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": true,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 4,
+            "name": 0
+        },
+        "shop_order": 45
+    },
+    {
+        "https://www.foody.vn/hai-duong/quan-cua-tom-quan-an-nam-bo": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 2,
+            "typeOption": {
+                "Chắc chắn": 2
+            },
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 5,
+            "name": 5
+        },
+        "shop_order": 46
+    },
+    {
+        "https://www.foody.vn/hai-duong/korea-restaurant-soo": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 2,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 4,
+            "name": 0
+        },
+        "shop_order": 47
+    },
+    {
+        "https://www.foody.vn/hai-duong/tokbokki-shop-online": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 4,
+            "name": 0
+        },
+        "shop_order": 48
+    },
+    {
+        "https://www.foody.vn/hai-duong/five-star-chicken-nga-tu-pho-ghe": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 49
+    },
+    {
+        "https://www.foody.vn/hai-duong/nha-hang-y-chuyen-am-thuc-y": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 4,
+            "name": 0
+        },
+        "shop_order": 50
+    },
+    {
+        "https://www.foody.vn/hai-duong/cafe-dao-online": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 0,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 1,
+            "name": 0
+        },
+        "shop_order": 51
+    },
+    {
+        "https://www.foody.vn/hai-duong/1988-pizza": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 3,
+            "typeOption": {
+                "Không": 1,
+                "Chắc chắn": 2
+            },
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 8,
+            "name": 8
+        },
+        "shop_order": 52
+    }
+]

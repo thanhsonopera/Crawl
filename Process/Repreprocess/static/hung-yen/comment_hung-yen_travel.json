@@ -1,0 +1,55 @@
+[
+    {
+        "https://www.foody.vn/hung-yen/khach-san-phu-my": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 1,
+            "typeOption": {},
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 0,
+            "name": 0
+        },
+        "shop_order": 1
+    },
+    {
+        "https://www.foody.vn/hung-yen/thanh-pho-xanh-ecopark": {
+            "num_miss_scoreType1": 0,
+            "num_miss_scoreType2": 0,
+            "num_comment_option": 5,
+            "typeOption": {
+                "Chắc chắn": 3,
+                "Có thể": 2
+            },
+            "num_hashtag": 0
+        },
+        "info": {
+            "reInfo": false,
+            "failScore": false,
+            "failPoint": false
+        },
+        "menu": {
+            "img": 0,
+            "src": 0,
+            "name": 0,
+            "price": 0
+        },
+        "gallery": {
+            "img": 4,
+            "name": 2
+        },
+        "shop_order": 2
+    }
+]
