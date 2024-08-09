@@ -1,5 +1,18 @@
 [
     {
+        "binh-thuan": [
+            {
+                "all_comment": 2007
+            },
+            {
+                "all_shop": 224
+            },
+            {
+                "all_shop_more_100_cm": 3
+            }
+        ]
+    },
+    {
         "ca-mau": [
             {
                 "all_comment": 694
@@ -78,6 +91,19 @@
         ]
     },
     {
+        "ha-tinh": [
+            {
+                "all_comment": 445
+            },
+            {
+                "all_shop": 145
+            },
+            {
+                "all_shop_more_100_cm": 1
+            }
+        ]
+    },
+    {
         "hai-duong": [
             {
                 "all_comment": 567
@@ -136,6 +162,19 @@
             },
             {
                 "all_shop": 112
+            },
+            {
+                "all_shop_more_100_cm": 0
+            }
+        ]
+    },
+    {
+        "Johor": [
+            {
+                "all_comment": 4
+            },
+            {
+                "all_shop": 4
             },
             {
                 "all_shop_more_100_cm": 0
@@ -260,6 +299,19 @@
         ]
     },
     {
+        "thai-binh": [
+            {
+                "all_comment": 449
+            },
+            {
+                "all_shop": 131
+            },
+            {
+                "all_shop_more_100_cm": 0
+            }
+        ]
+    },
+    {
         "tuyen-quang": [
             {
                 "all_comment": 53
@@ -269,6 +321,19 @@
             },
             {
                 "all_shop_more_100_cm": 0
+            }
+        ]
+    },
+    {
+        "vinh-phuc": [
+            {
+                "all_comment": 701
+            },
+            {
+                "all_shop": 151
+            },
+            {
+                "all_shop_more_100_cm": 1
             }
         ]
     }
